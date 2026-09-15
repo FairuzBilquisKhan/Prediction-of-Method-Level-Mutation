@@ -1,0 +1,868 @@
+1:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils:33:1186:0L |==> 1L
+2:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils:33:1186:0L |==> -1L
+3:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:35:1287:1L |==> 0L
+4:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:35:1287:1L |==> -1L
+5:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils:37:1400:-1L |==> 0L
+6:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils:37:1400:-1L |==> 1L
+7:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils:39:1516:0 |==> 1
+8:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils:39:1516:0 |==> -1
+9:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:41:1628:1 |==> 0
+10:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:41:1628:1 |==> -1
+11:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils:43:1752:-1 |==> 0
+12:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils:43:1752:-1 |==> 1
+13:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils:45:1867:0 |==> 1
+14:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils:45:1867:0 |==> -1
+15:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:47:1979:1 |==> 0
+16:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:47:1979:1 |==> -1
+17:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils:49:2103:-1 |==> 0
+18:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils:49:2103:-1 |==> 1
+19:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils:51:2213:0 |==> 1
+20:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils:51:2213:0 |==> -1
+21:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:53:2320:1 |==> 0
+22:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:53:2320:1 |==> -1
+23:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils:55:2439:-1 |==> 0
+24:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils:55:2439:-1 |==> 1
+25:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils:57:2550:0.0 |==> 1.0
+26:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils:57:2550:0.0 |==> -1.0
+27:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:59:2661:1.0 |==> 0.0
+28:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:59:2661:1.0 |==> -1.0
+29:ORU:-(double):+(double):org.apache.commons.lang3.math.NumberUtils:61:2784:-1.0 |==> +1.0
+30:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:61:2785:1.0 |==> 0.0
+31:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:61:2785:1.0 |==> -1.0
+32:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils:63:2894:0.0F |==> 1.0F
+33:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils:63:2894:0.0F |==> -1.0F
+34:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:65:3001:1.0F |==> 0.0F
+35:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:65:3001:1.0F |==> -1.0F
+36:ORU:-(float):+(float):org.apache.commons.lang3.math.NumberUtils:67:3120:-1.0F |==> +1.0F
+37:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils:67:3121:1.0F |==> 0.0F
+38:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils:67:3121:1.0F |==> -1.0F
+39:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@toInt(java.lang.String):99:4195:0 |==> 1
+40:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@toInt(java.lang.String):99:4195:0 |==> -1
+41:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@toInt(java.lang.String,int):120:4875:str == null |==> false
+42:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@toLong(java.lang.String):148:5711:0L |==> 1L
+43:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@toLong(java.lang.String):148:5711:0L |==> -1L
+44:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@toLong(java.lang.String,long):169:6406:str == null |==> false
+45:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@toFloat(java.lang.String):198:7299:0.0F |==> 1.0F
+46:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@toFloat(java.lang.String):198:7299:0.0F |==> -1.0F
+47:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@toFloat(java.lang.String,float):221:8064:str == null |==> false
+48:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@toDouble(java.lang.String):250:8958:0.0 |==> 1.0
+49:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@toDouble(java.lang.String):250:8958:0.0 |==> -1.0
+50:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@toDouble(java.lang.String,double):273:9731:str == null |==> false
+51:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@toByte(java.lang.String):302:10642:0 |==> 1
+52:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@toByte(java.lang.String):302:10642:0 |==> -1
+53:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@toByte(java.lang.String,byte):323:11329:str == null |==> false
+54:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@toShort(java.lang.String):351:12179:0 |==> 1
+55:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@toShort(java.lang.String):351:12179:0 |==> -1
+56:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@toShort(java.lang.String,short):372:12875:str == null |==> false
+57:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):445:15751:str == null |==> false
+58:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):448:15828:StringUtils.isBlank(str) |==> false
+59:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):448:15828:StringUtils.isBlank(str) |==> true
+60:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):451:15960:str.startsWith("--") |==> false
+61:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):451:15960:str.startsWith("--") |==> true
+62:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16264:str.startsWith("0x") || str.startsWith("-0x") |==> str.startsWith("0x") != str.startsWith("-0x")
+63:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16264:str.startsWith("0x") || str.startsWith("-0x") |==> str.startsWith("0x")
+64:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16288:str.startsWith("0x") || str.startsWith("-0x") |==> str.startsWith("-0x")
+65:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16285:str.startsWith("0x") || str.startsWith("-0x") |==> true
+66:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16264:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") |==> (str.startsWith("0x") || str.startsWith("-0x")) != str.startsWith("0X")
+67:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16264:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") |==> str.startsWith("0x") || str.startsWith("-0x")
+68:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16313:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") |==> str.startsWith("0X")
+69:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16310:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") |==> true
+70:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16264:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") || str.startsWith("-0X") |==> (str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X")) != str.startsWith("-0X")
+71:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16264:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") || str.startsWith("-0X") |==> str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X")
+72:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16337:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") || str.startsWith("-0X") |==> str.startsWith("-0X")
+73:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):458:16334:str.startsWith("0x") || str.startsWith("-0x") || str.startsWith("0X") || str.startsWith("-0X") |==> true
+74:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):461:16464:1 |==> 0
+75:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):461:16464:1 |==> -1
+76:AOR:-(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):461:16449:str.length() - 1 |==> str.length() % 1
+77:AOR:-(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):461:16449:str.length() - 1 |==> str.length() * 1
+78:AOR:-(int,int):+(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):461:16449:str.length() - 1 |==> str.length() + 1
+79:AOR:-(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):461:16449:str.length() - 1 |==> str.length() / 1
+80:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') |==> str.indexOf('e') % str.indexOf('E')
+81:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') |==> str.indexOf('e') * str.indexOf('E')
+82:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') |==> str.indexOf('e') - str.indexOf('E')
+83:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') |==> str.indexOf('e') / str.indexOf('E')
+84:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16627:1 |==> 0
+85:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16627:1 |==> -1
+86:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') + 1 |==> (str.indexOf('e') + str.indexOf('E')) % 1
+87:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') + 1 |==> (str.indexOf('e') + str.indexOf('E')) * 1
+88:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') + 1 |==> str.indexOf('e') + str.indexOf('E') - 1
+89:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):466:16589:str.indexOf('e') + str.indexOf('E') + 1 |==> (str.indexOf('e') + str.indexOf('E')) / 1
+90:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):468:16652:-1 |==> 0
+91:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):468:16652:-1 |==> 1
+92:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):468:16643:decPos > -1 |==> decPos != -1
+93:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):468:16643:decPos > -1 |==> decPos >= -1
+94:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):468:16650:decPos > -1 |==> false
+95:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):470:16684:-1 |==> 0
+96:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):470:16684:-1 |==> 1
+97:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):470:16675:expPos > -1 |==> expPos != -1
+98:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):470:16675:expPos > -1 |==> expPos >= -1
+99:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):470:16682:expPos > -1 |==> false
+100:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16710:expPos < decPos |==> expPos != decPos
+101:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16710:expPos < decPos |==> expPos <= decPos
+102:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16717:expPos < decPos |==> false
+103:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16729:expPos > str.length() |==> expPos != str.length()
+104:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16729:expPos > str.length() |==> expPos >= str.length()
+105:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16736:expPos > str.length() |==> false
+106:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16710:expPos < decPos || expPos > str.length() |==> expPos < decPos != expPos > str.length()
+107:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16710:expPos < decPos || expPos > str.length() |==> expPos < decPos
+108:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16729:expPos < decPos || expPos > str.length() |==> expPos > str.length()
+109:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):471:16726:expPos < decPos || expPos > str.length() |==> true
+110:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):474:16903:1 |==> 0
+111:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):474:16903:1 |==> -1
+112:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):474:16894:decPos + 1 |==> decPos % 1
+113:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):474:16894:decPos + 1 |==> decPos * 1
+114:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):474:16894:decPos + 1 |==> decPos - 1
+115:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):474:16894:decPos + 1 |==> decPos / 1
+116:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):476:16981:1 |==> 0
+117:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):476:16981:1 |==> -1
+118:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):476:16972:decPos + 1 |==> decPos % 1
+119:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):476:16972:decPos + 1 |==> decPos * 1
+120:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):476:16972:decPos + 1 |==> decPos - 1
+121:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):476:16972:decPos + 1 |==> decPos / 1
+122:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):478:17032:0 |==> 1
+123:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):478:17032:0 |==> -1
+124:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):480:17086:-1 |==> 0
+125:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):480:17086:-1 |==> 1
+126:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):480:17077:expPos > -1 |==> expPos != -1
+127:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):480:17077:expPos > -1 |==> expPos >= -1
+128:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):480:17084:expPos > -1 |==> false
+129:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):481:17112:expPos > str.length() |==> expPos != str.length()
+130:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):481:17112:expPos > str.length() |==> expPos >= str.length()
+131:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):481:17119:expPos > str.length() |==> false
+132:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):484:17278:0 |==> 1
+133:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):484:17278:0 |==> -1
+134:ROR:!=(int,int):<(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):490:17431:lastChar != '.' |==> lastChar < '.'
+135:ROR:!=(int,int):>(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):490:17431:lastChar != '.' |==> lastChar > '.'
+136:ROR:!=(int,int):TRUE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):490:17440:lastChar != '.' |==> true
+137:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):490:17399:!Character.isDigit(lastChar) && lastChar != '.' |==> !Character.isDigit(lastChar) == (lastChar != '.')
+138:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):490:17428:!Character.isDigit(lastChar) && lastChar != '.' |==> false
+139:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):490:17399:!Character.isDigit(lastChar) && lastChar != '.' |==> !Character.isDigit(lastChar)
+140:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):490:17431:!Character.isDigit(lastChar) && lastChar != '.' |==> lastChar != '.'
+141:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17475:-1 |==> 0
+142:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17475:-1 |==> 1
+143:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17466:expPos > -1 |==> expPos != -1
+144:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17466:expPos > -1 |==> expPos >= -1
+145:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17473:expPos > -1 |==> false
+146:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17505:1 |==> 0
+147:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17505:1 |==> -1
+148:AOR:-(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17490:str.length() - 1 |==> str.length() % 1
+149:AOR:-(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17490:str.length() - 1 |==> str.length() * 1
+150:AOR:-(int,int):+(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17490:str.length() - 1 |==> str.length() + 1
+151:AOR:-(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17490:str.length() - 1 |==> str.length() / 1
+152:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17481:expPos < str.length() - 1 |==> expPos != str.length() - 1
+153:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17481:expPos < str.length() - 1 |==> expPos <= str.length() - 1
+154:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17488:expPos < str.length() - 1 |==> false
+155:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17466:expPos > -1 && expPos < str.length() - 1 |==> expPos > -1 == expPos < str.length() - 1
+156:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17478:expPos > -1 && expPos < str.length() - 1 |==> false
+157:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17466:expPos > -1 && expPos < str.length() - 1 |==> expPos > -1
+158:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):491:17481:expPos > -1 && expPos < str.length() - 1 |==> expPos < str.length() - 1
+159:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17555:1 |==> 0
+160:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17555:1 |==> -1
+161:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17546:expPos + 1 |==> expPos % 1
+162:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17546:expPos + 1 |==> expPos * 1
+163:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17546:expPos + 1 |==> expPos - 1
+164:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17546:expPos + 1 |==> expPos / 1
+165:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17573:1 |==> 0
+166:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17573:1 |==> -1
+167:AOR:-(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17558:str.length() - 1 |==> str.length() % 1
+168:AOR:-(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17558:str.length() - 1 |==> str.length() * 1
+169:AOR:-(int,int):+(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17558:str.length() - 1 |==> str.length() + 1
+170:AOR:-(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):492:17558:str.length() - 1 |==> str.length() / 1
+171:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17726:0 |==> 1
+172:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17726:0 |==> -1
+173:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17744:1 |==> 0
+174:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17744:1 |==> -1
+175:AOR:-(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17729:str.length() - 1 |==> str.length() % 1
+176:AOR:-(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17729:str.length() - 1 |==> str.length() * 1
+177:AOR:-(int,int):+(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17729:str.length() - 1 |==> str.length() + 1
+178:AOR:-(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):497:17729:str.length() - 1 |==> str.length() / 1
+179:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):498:17779:isAllZeros(mant) && isAllZeros(exp) |==> isAllZeros(mant) == isAllZeros(exp)
+180:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):498:17796:isAllZeros(mant) && isAllZeros(exp) |==> false
+181:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):498:17779:isAllZeros(mant) && isAllZeros(exp) |==> isAllZeros(mant)
+182:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):498:17799:isAllZeros(mant) && isAllZeros(exp) |==> isAllZeros(exp)
+183:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):502:17930:dec == null |==> false
+184:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):503:17969:exp == null |==> false
+185:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):502:17926:dec == null && exp == null |==> dec == null == (exp == null)
+186:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):503:17962:dec == null && exp == null |==> false
+187:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):502:17926:dec == null && exp == null |==> dec == null
+188:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):503:17965:dec == null && exp == null |==> exp == null
+189:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18020:0 |==> 1
+190:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18020:0 |==> -1
+191:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18005:numeric.charAt(0) == '-' |==> numeric.charAt(0) <= '-'
+192:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18005:numeric.charAt(0) == '-' |==> numeric.charAt(0) >= '-'
+193:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18023:numeric.charAt(0) == '-' |==> false
+194:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18060:1 |==> 0
+195:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18060:1 |==> -1
+196:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18005:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) |==> numeric.charAt(0) == '-' == isDigits(numeric.substring(1))
+197:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18030:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) |==> false
+198:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18005:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) |==> numeric.charAt(0) == '-'
+199:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18033:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) |==> isDigits(numeric.substring(1))
+200:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18005:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric) |==> (numeric.charAt(0) == '-' && isDigits(numeric.substring(1))) != isDigits(numeric)
+201:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18005:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric) |==> numeric.charAt(0) == '-' && isDigits(numeric.substring(1))
+202:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18067:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric) |==> isDigits(numeric)
+203:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18064:numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric) |==> true
+204:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):502:17926:dec == null && exp == null && (numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric)) |==> (dec == null && exp == null) == (numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric))
+205:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18001:dec == null && exp == null && (numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric)) |==> false
+206:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):502:17926:dec == null && exp == null && (numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric)) |==> dec == null && exp == null
+207:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):504:18004:dec == null && exp == null && (numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric)) |==> (numeric.charAt(0) == '-' && isDigits(numeric.substring(1)) || isDigits(numeric))
+208:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18704:0.0F |==> 1.0F
+209:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18704:0.0F |==> -1.0F
+210:ROR:==(float,float):<=(float,float):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18686:f.floatValue() == 0.0F |==> f.floatValue() <= 0.0F
+211:ROR:==(float,float):>=(float,float):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18686:f.floatValue() == 0.0F |==> f.floatValue() >= 0.0F
+212:ROR:==(float,float):FALSE(float,float):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18701:f.floatValue() == 0.0F |==> false
+213:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18686:f.floatValue() == 0.0F && !allZeros |==> f.floatValue() == 0.0F == !allZeros
+214:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18709:f.floatValue() == 0.0F && !allZeros |==> false
+215:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18686:f.floatValue() == 0.0F && !allZeros |==> f.floatValue() == 0.0F
+216:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18712:f.floatValue() == 0.0F && !allZeros |==> !allZeros
+217:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18667:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> f.isInfinite() != (f.floatValue() == 0.0F && !allZeros)
+218:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18667:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> f.isInfinite()
+219:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18685:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> (f.floatValue() == 0.0F && !allZeros)
+220:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):518:18682:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> true
+221:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19378:0.0 |==> 1.0
+222:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19378:0.0 |==> -1.0
+223:ROR:==(double,double):<=(double,double):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19360:d.floatValue() == 0.0 |==> d.floatValue() <= 0.0
+224:ROR:==(double,double):>=(double,double):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19360:d.floatValue() == 0.0 |==> d.floatValue() >= 0.0
+225:ROR:==(double,double):FALSE(double,double):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19375:d.floatValue() == 0.0 |==> false
+226:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19360:d.floatValue() == 0.0 && !allZeros |==> d.floatValue() == 0.0 == !allZeros
+227:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19383:d.floatValue() == 0.0 && !allZeros |==> false
+228:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19360:d.floatValue() == 0.0 && !allZeros |==> d.floatValue() == 0.0
+229:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19386:d.floatValue() == 0.0 && !allZeros |==> !allZeros
+230:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19341:d.isInfinite() || (d.floatValue() == 0.0 && !allZeros) |==> d.isInfinite() != (d.floatValue() == 0.0 && !allZeros)
+231:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19341:d.isInfinite() || (d.floatValue() == 0.0 && !allZeros) |==> d.isInfinite()
+232:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19359:d.isInfinite() || (d.floatValue() == 0.0 && !allZeros) |==> (d.floatValue() == 0.0 && !allZeros)
+233:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):532:19356:d.isInfinite() || (d.floatValue() == 0.0 && !allZeros) |==> true
+234:LVR:NEG:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20150:-1 |==> 0
+235:LVR:NEG:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20150:-1 |==> 1
+236:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20141:expPos > -1 |==> expPos != -1
+237:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20141:expPos > -1 |==> expPos >= -1
+238:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20148:expPos > -1 |==> false
+239:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20180:1 |==> 0
+240:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20180:1 |==> -1
+241:AOR:-(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20165:str.length() - 1 |==> str.length() % 1
+242:AOR:-(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20165:str.length() - 1 |==> str.length() * 1
+243:AOR:-(int,int):+(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20165:str.length() - 1 |==> str.length() + 1
+244:AOR:-(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20165:str.length() - 1 |==> str.length() / 1
+245:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20156:expPos < str.length() - 1 |==> expPos != str.length() - 1
+246:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20156:expPos < str.length() - 1 |==> expPos <= str.length() - 1
+247:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20163:expPos < str.length() - 1 |==> false
+248:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20141:expPos > -1 && expPos < str.length() - 1 |==> expPos > -1 == expPos < str.length() - 1
+249:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20153:expPos > -1 && expPos < str.length() - 1 |==> false
+250:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20141:expPos > -1 && expPos < str.length() - 1 |==> expPos > -1
+251:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):551:20156:expPos > -1 && expPos < str.length() - 1 |==> expPos < str.length() - 1
+252:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):552:20230:1 |==> 0
+253:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):552:20230:1 |==> -1
+254:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):552:20221:expPos + 1 |==> expPos % 1
+255:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):552:20221:expPos + 1 |==> expPos * 1
+256:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):552:20221:expPos + 1 |==> expPos - 1
+257:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):552:20221:expPos + 1 |==> expPos / 1
+258:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):556:20331:dec == null |==> false
+259:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):556:20346:exp == null |==> false
+260:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):556:20327:dec == null && exp == null |==> dec == null == (exp == null)
+261:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):556:20339:dec == null && exp == null |==> false
+262:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):556:20327:dec == null && exp == null |==> dec == null
+263:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):556:20342:dec == null && exp == null |==> exp == null
+264:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):572:20940:isAllZeros(mant) && isAllZeros(exp) |==> isAllZeros(mant) == isAllZeros(exp)
+265:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):572:20957:isAllZeros(mant) && isAllZeros(exp) |==> false
+266:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):572:20940:isAllZeros(mant) && isAllZeros(exp) |==> isAllZeros(mant)
+267:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):572:20960:isAllZeros(mant) && isAllZeros(exp) |==> isAllZeros(exp)
+268:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21110:0.0F |==> 1.0F
+269:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21110:0.0F |==> -1.0F
+270:ROR:==(float,float):<=(float,float):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21092:f.floatValue() == 0.0F |==> f.floatValue() <= 0.0F
+271:ROR:==(float,float):>=(float,float):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21092:f.floatValue() == 0.0F |==> f.floatValue() >= 0.0F
+272:ROR:==(float,float):FALSE(float,float):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21107:f.floatValue() == 0.0F |==> false
+273:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21092:f.floatValue() == 0.0F && !allZeros |==> f.floatValue() == 0.0F == !allZeros
+274:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21115:f.floatValue() == 0.0F && !allZeros |==> false
+275:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21092:f.floatValue() == 0.0F && !allZeros |==> f.floatValue() == 0.0F
+276:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21118:f.floatValue() == 0.0F && !allZeros |==> !allZeros
+277:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21073:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> f.isInfinite() != (f.floatValue() == 0.0F && !allZeros)
+278:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21073:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> f.isInfinite()
+279:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21091:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> (f.floatValue() == 0.0F && !allZeros)
+280:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):575:21088:f.isInfinite() || (f.floatValue() == 0.0F && !allZeros) |==> true
+281:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21451:0.0 |==> 1.0
+282:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21451:0.0 |==> -1.0
+283:ROR:==(double,double):<=(double,double):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21432:d.doubleValue() == 0.0 |==> d.doubleValue() <= 0.0
+284:ROR:==(double,double):>=(double,double):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21432:d.doubleValue() == 0.0 |==> d.doubleValue() >= 0.0
+285:ROR:==(double,double):FALSE(double,double):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21448:d.doubleValue() == 0.0 |==> false
+286:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21432:d.doubleValue() == 0.0 && !allZeros |==> d.doubleValue() == 0.0 == !allZeros
+287:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21456:d.doubleValue() == 0.0 && !allZeros |==> false
+288:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21432:d.doubleValue() == 0.0 && !allZeros |==> d.doubleValue() == 0.0
+289:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21459:d.doubleValue() == 0.0 && !allZeros |==> !allZeros
+290:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21413:d.isInfinite() || (d.doubleValue() == 0.0 && !allZeros) |==> d.isInfinite() != (d.doubleValue() == 0.0 && !allZeros)
+291:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21413:d.isInfinite() || (d.doubleValue() == 0.0 && !allZeros) |==> d.isInfinite()
+292:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21431:d.isInfinite() || (d.doubleValue() == 0.0 && !allZeros) |==> (d.doubleValue() == 0.0 && !allZeros)
+293:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@createNumber(java.lang.String):583:21428:d.isInfinite() || (d.doubleValue() == 0.0 && !allZeros) |==> true
+294:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):605:22069:str == null |==> false
+295:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):606:22099:true |==> false
+296:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22151:1 |==> 0
+297:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22151:1 |==> -1
+298:AOR:-(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22136:str.length() - 1 |==> str.length() % 1
+299:AOR:-(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22136:str.length() - 1 |==> str.length() * 1
+300:AOR:-(int,int):+(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22136:str.length() - 1 |==> str.length() + 1
+301:AOR:-(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22136:str.length() - 1 |==> str.length() / 1
+302:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22159:0 |==> 1
+303:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22159:0 |==> -1
+304:ROR:>=(int,int):==(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22154:i >= 0 |==> i == 0
+305:ROR:>=(int,int):>(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22154:i >= 0 |==> i > 0
+306:ROR:>=(int,int):TRUE(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):608:22156:i >= 0 |==> true
+307:ROR:!=(int,int):<(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):609:22185:str.charAt(i) != '0' |==> str.charAt(i) < '0'
+308:ROR:!=(int,int):>(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):609:22185:str.charAt(i) != '0' |==> str.charAt(i) > '0'
+309:ROR:!=(int,int):TRUE(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):609:22199:str.charAt(i) != '0' |==> true
+310:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):610:22232:false |==> true
+311:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):613:22293:0 |==> 1
+312:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):613:22293:0 |==> -1
+313:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):613:22278:str.length() > 0 |==> str.length() >= 0
+314:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isAllZeros(java.lang.String):613:22291:str.length() > 0 |==> false
+315:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createFloat(java.lang.String):627:22802:str == null |==> false
+316:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createDouble(java.lang.String):643:23315:str == null |==> false
+317:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createInteger(java.lang.String):660:23874:str == null |==> false
+318:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createLong(java.lang.String):677:24449:str == null |==> false
+319:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createBigInteger(java.lang.String):693:24977:str == null |==> false
+320:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@createBigDecimal(java.lang.String):709:25507:str == null |==> false
+321:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@createBigDecimal(java.lang.String):713:25657:StringUtils.isBlank(str) |==> false
+322:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@createBigDecimal(java.lang.String):713:25657:StringUtils.isBlank(str) |==> true
+323:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@min(long[]):731:26323:array == null |==> false
+324:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(long[]):733:26447:0 |==> 1
+325:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(long[]):733:26447:0 |==> -1
+326:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@min(long[]):733:26431:array.length == 0 |==> array.length >= 0
+327:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(long[]):733:26444:array.length == 0 |==> false
+328:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(long[]):738:26599:0 |==> 1
+329:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(long[]):738:26599:0 |==> -1
+330:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@min(long[]):739:26624:1 |==> 0
+331:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@min(long[]):739:26624:1 |==> -1
+332:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(long[]):739:26627:i < array.length |==> i != array.length
+333:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(long[]):739:26627:i < array.length |==> i <= array.length
+334:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(long[]):739:26629:i < array.length |==> false
+335:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.NumberUtils@min(long[]):740:26668:array[i] < min |==> array[i] != min
+336:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.NumberUtils@min(long[]):740:26668:array[i] < min |==> array[i] <= min
+337:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.NumberUtils@min(long[]):740:26677:array[i] < min |==> false
+338:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(long[]):741:26702:min = array[i]; |==> <NO-OP>
+339:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@min(int[]):758:27194:array == null |==> false
+340:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(int[]):760:27318:0 |==> 1
+341:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(int[]):760:27318:0 |==> -1
+342:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):760:27302:array.length == 0 |==> array.length >= 0
+343:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):760:27315:array.length == 0 |==> false
+344:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(int[]):765:27469:0 |==> 1
+345:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(int[]):765:27469:0 |==> -1
+346:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@min(int[]):766:27494:1 |==> 0
+347:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@min(int[]):766:27494:1 |==> -1
+348:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):766:27497:j < array.length |==> j != array.length
+349:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):766:27497:j < array.length |==> j <= array.length
+350:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):766:27499:j < array.length |==> false
+351:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):767:27538:array[j] < min |==> array[j] != min
+352:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):767:27538:array[j] < min |==> array[j] <= min
+353:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(int[]):767:27547:array[j] < min |==> false
+354:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(int[]):768:27572:min = array[j]; |==> <NO-OP>
+355:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@min(short[]):785:28068:array == null |==> false
+356:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(short[]):787:28192:0 |==> 1
+357:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(short[]):787:28192:0 |==> -1
+358:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):787:28176:array.length == 0 |==> array.length >= 0
+359:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):787:28189:array.length == 0 |==> false
+360:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(short[]):792:28345:0 |==> 1
+361:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(short[]):792:28345:0 |==> -1
+362:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@min(short[]):793:28370:1 |==> 0
+363:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@min(short[]):793:28370:1 |==> -1
+364:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):793:28373:i < array.length |==> i != array.length
+365:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):793:28373:i < array.length |==> i <= array.length
+366:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):793:28375:i < array.length |==> false
+367:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):794:28414:array[i] < min |==> array[i] != min
+368:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):794:28414:array[i] < min |==> array[i] <= min
+369:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(short[]):794:28423:array[i] < min |==> false
+370:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(short[]):795:28448:min = array[i]; |==> <NO-OP>
+371:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@min(byte[]):812:28942:array == null |==> false
+372:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(byte[]):814:29066:0 |==> 1
+373:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(byte[]):814:29066:0 |==> -1
+374:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):814:29050:array.length == 0 |==> array.length >= 0
+375:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):814:29063:array.length == 0 |==> false
+376:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(byte[]):819:29218:0 |==> 1
+377:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(byte[]):819:29218:0 |==> -1
+378:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@min(byte[]):820:29243:1 |==> 0
+379:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@min(byte[]):820:29243:1 |==> -1
+380:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):820:29246:i < array.length |==> i != array.length
+381:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):820:29246:i < array.length |==> i <= array.length
+382:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):820:29248:i < array.length |==> false
+383:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):821:29287:array[i] < min |==> array[i] != min
+384:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):821:29287:array[i] < min |==> array[i] <= min
+385:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte[]):821:29296:array[i] < min |==> false
+386:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(byte[]):822:29321:min = array[i]; |==> <NO-OP>
+387:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@min(double[]):840:29932:array == null |==> false
+388:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(double[]):842:30056:0 |==> 1
+389:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(double[]):842:30056:0 |==> -1
+390:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@min(double[]):842:30040:array.length == 0 |==> array.length >= 0
+391:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(double[]):842:30053:array.length == 0 |==> false
+392:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(double[]):847:30210:0 |==> 1
+393:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(double[]):847:30210:0 |==> -1
+394:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@min(double[]):848:30235:1 |==> 0
+395:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@min(double[]):848:30235:1 |==> -1
+396:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(double[]):848:30238:i < array.length |==> i != array.length
+397:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(double[]):848:30238:i < array.length |==> i <= array.length
+398:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(double[]):848:30240:i < array.length |==> false
+399:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@min(double[]):849:30291:Double.isNaN(array[i]) |==> false
+400:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@min(double[]):849:30291:Double.isNaN(array[i]) |==> true
+401:ROR:<(double,double):!=(double,double):org.apache.commons.lang3.math.NumberUtils@min(double[]):852:30370:array[i] < min |==> array[i] != min
+402:ROR:<(double,double):<=(double,double):org.apache.commons.lang3.math.NumberUtils@min(double[]):852:30370:array[i] < min |==> array[i] <= min
+403:ROR:<(double,double):FALSE(double,double):org.apache.commons.lang3.math.NumberUtils@min(double[]):852:30379:array[i] < min |==> false
+404:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(double[]):853:30404:min = array[i]; |==> <NO-OP>
+405:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@min(float[]):871:31011:array == null |==> false
+406:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(float[]):873:31135:0 |==> 1
+407:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(float[]):873:31135:0 |==> -1
+408:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@min(float[]):873:31119:array.length == 0 |==> array.length >= 0
+409:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(float[]):873:31132:array.length == 0 |==> false
+410:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@min(float[]):878:31288:0 |==> 1
+411:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@min(float[]):878:31288:0 |==> -1
+412:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@min(float[]):879:31313:1 |==> 0
+413:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@min(float[]):879:31313:1 |==> -1
+414:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(float[]):879:31316:i < array.length |==> i != array.length
+415:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(float[]):879:31316:i < array.length |==> i <= array.length
+416:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(float[]):879:31318:i < array.length |==> false
+417:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@min(float[]):880:31368:Float.isNaN(array[i]) |==> false
+418:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@min(float[]):880:31368:Float.isNaN(array[i]) |==> true
+419:ROR:<(float,float):!=(float,float):org.apache.commons.lang3.math.NumberUtils@min(float[]):883:31446:array[i] < min |==> array[i] != min
+420:ROR:<(float,float):<=(float,float):org.apache.commons.lang3.math.NumberUtils@min(float[]):883:31446:array[i] < min |==> array[i] <= min
+421:ROR:<(float,float):FALSE(float,float):org.apache.commons.lang3.math.NumberUtils@min(float[]):883:31455:array[i] < min |==> false
+422:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(float[]):884:31480:min = array[i]; |==> <NO-OP>
+423:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@max(long[]):903:32069:array == null |==> false
+424:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(long[]):905:32193:0 |==> 1
+425:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(long[]):905:32193:0 |==> -1
+426:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(long[]):905:32177:array.length == 0 |==> array.length >= 0
+427:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(long[]):905:32190:array.length == 0 |==> false
+428:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(long[]):910:32341:0 |==> 1
+429:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(long[]):910:32341:0 |==> -1
+430:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@max(long[]):911:32366:1 |==> 0
+431:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@max(long[]):911:32366:1 |==> -1
+432:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(long[]):911:32369:j < array.length |==> j != array.length
+433:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@max(long[]):911:32369:j < array.length |==> j <= array.length
+434:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(long[]):911:32371:j < array.length |==> false
+435:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.NumberUtils@max(long[]):912:32410:array[j] > max |==> array[j] != max
+436:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.NumberUtils@max(long[]):912:32410:array[j] > max |==> array[j] >= max
+437:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.NumberUtils@max(long[]):912:32419:array[j] > max |==> false
+438:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(long[]):913:32444:max = array[j]; |==> <NO-OP>
+439:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@max(int[]):930:32932:array == null |==> false
+440:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(int[]):932:33056:0 |==> 1
+441:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(int[]):932:33056:0 |==> -1
+442:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):932:33040:array.length == 0 |==> array.length >= 0
+443:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):932:33053:array.length == 0 |==> false
+444:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(int[]):937:33207:0 |==> 1
+445:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(int[]):937:33207:0 |==> -1
+446:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@max(int[]):938:33232:1 |==> 0
+447:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@max(int[]):938:33232:1 |==> -1
+448:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):938:33235:j < array.length |==> j != array.length
+449:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):938:33235:j < array.length |==> j <= array.length
+450:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):938:33237:j < array.length |==> false
+451:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):939:33276:array[j] > max |==> array[j] != max
+452:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):939:33276:array[j] > max |==> array[j] >= max
+453:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(int[]):939:33285:array[j] > max |==> false
+454:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(int[]):940:33310:max = array[j]; |==> <NO-OP>
+455:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@max(short[]):957:33806:array == null |==> false
+456:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(short[]):959:33930:0 |==> 1
+457:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(short[]):959:33930:0 |==> -1
+458:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):959:33914:array.length == 0 |==> array.length >= 0
+459:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):959:33927:array.length == 0 |==> false
+460:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(short[]):964:34083:0 |==> 1
+461:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(short[]):964:34083:0 |==> -1
+462:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@max(short[]):965:34108:1 |==> 0
+463:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@max(short[]):965:34108:1 |==> -1
+464:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):965:34111:i < array.length |==> i != array.length
+465:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):965:34111:i < array.length |==> i <= array.length
+466:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):965:34113:i < array.length |==> false
+467:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):966:34152:array[i] > max |==> array[i] != max
+468:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):966:34152:array[i] > max |==> array[i] >= max
+469:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(short[]):966:34161:array[i] > max |==> false
+470:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(short[]):967:34186:max = array[i]; |==> <NO-OP>
+471:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@max(byte[]):984:34680:array == null |==> false
+472:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(byte[]):986:34804:0 |==> 1
+473:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(byte[]):986:34804:0 |==> -1
+474:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):986:34788:array.length == 0 |==> array.length >= 0
+475:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):986:34801:array.length == 0 |==> false
+476:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(byte[]):991:34956:0 |==> 1
+477:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(byte[]):991:34956:0 |==> -1
+478:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@max(byte[]):992:34981:1 |==> 0
+479:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@max(byte[]):992:34981:1 |==> -1
+480:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):992:34984:i < array.length |==> i != array.length
+481:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):992:34984:i < array.length |==> i <= array.length
+482:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):992:34986:i < array.length |==> false
+483:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):993:35025:array[i] > max |==> array[i] != max
+484:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):993:35025:array[i] > max |==> array[i] >= max
+485:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte[]):993:35034:array[i] > max |==> false
+486:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(byte[]):994:35059:max = array[i]; |==> <NO-OP>
+487:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@max(double[]):1012:35668:array == null |==> false
+488:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(double[]):1014:35792:0 |==> 1
+489:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(double[]):1014:35792:0 |==> -1
+490:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(double[]):1014:35776:array.length == 0 |==> array.length >= 0
+491:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(double[]):1014:35789:array.length == 0 |==> false
+492:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(double[]):1019:35946:0 |==> 1
+493:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(double[]):1019:35946:0 |==> -1
+494:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@max(double[]):1020:35971:1 |==> 0
+495:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@max(double[]):1020:35971:1 |==> -1
+496:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(double[]):1020:35974:j < array.length |==> j != array.length
+497:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@max(double[]):1020:35974:j < array.length |==> j <= array.length
+498:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(double[]):1020:35976:j < array.length |==> false
+499:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@max(double[]):1021:36027:Double.isNaN(array[j]) |==> false
+500:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@max(double[]):1021:36027:Double.isNaN(array[j]) |==> true
+501:ROR:>(double,double):!=(double,double):org.apache.commons.lang3.math.NumberUtils@max(double[]):1024:36106:array[j] > max |==> array[j] != max
+502:ROR:>(double,double):>=(double,double):org.apache.commons.lang3.math.NumberUtils@max(double[]):1024:36106:array[j] > max |==> array[j] >= max
+503:ROR:>(double,double):FALSE(double,double):org.apache.commons.lang3.math.NumberUtils@max(double[]):1024:36115:array[j] > max |==> false
+504:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(double[]):1025:36140:max = array[j]; |==> <NO-OP>
+505:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.NumberUtils@max(float[]):1043:36747:array == null |==> false
+506:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(float[]):1045:36871:0 |==> 1
+507:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(float[]):1045:36871:0 |==> -1
+508:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(float[]):1045:36855:array.length == 0 |==> array.length >= 0
+509:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(float[]):1045:36868:array.length == 0 |==> false
+510:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@max(float[]):1050:37020:0 |==> 1
+511:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@max(float[]):1050:37020:0 |==> -1
+512:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@max(float[]):1051:37045:1 |==> 0
+513:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@max(float[]):1051:37045:1 |==> -1
+514:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(float[]):1051:37048:j < array.length |==> j != array.length
+515:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@max(float[]):1051:37048:j < array.length |==> j <= array.length
+516:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(float[]):1051:37050:j < array.length |==> false
+517:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@max(float[]):1052:37100:Float.isNaN(array[j]) |==> false
+518:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@max(float[]):1052:37100:Float.isNaN(array[j]) |==> true
+519:ROR:>(float,float):!=(float,float):org.apache.commons.lang3.math.NumberUtils@max(float[]):1055:37178:array[j] > max |==> array[j] != max
+520:ROR:>(float,float):>=(float,float):org.apache.commons.lang3.math.NumberUtils@max(float[]):1055:37178:array[j] > max |==> array[j] >= max
+521:ROR:>(float,float):FALSE(float,float):org.apache.commons.lang3.math.NumberUtils@max(float[]):1055:37187:array[j] > max |==> false
+522:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(float[]):1056:37212:max = array[j]; |==> <NO-OP>
+523:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1074:37655:b < a |==> b != a
+524:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1074:37655:b < a |==> b <= a
+525:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1074:37657:b < a |==> false
+526:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1075:37676:a = b; |==> <NO-OP>
+527:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1077:37705:c < a |==> c != a
+528:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1077:37705:c < a |==> c <= a
+529:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1077:37707:c < a |==> false
+530:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(long,long,long):1078:37726:a = c; |==> <NO-OP>
+531:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1092:38036:b < a |==> b != a
+532:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1092:38036:b < a |==> b <= a
+533:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1092:38038:b < a |==> false
+534:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1093:38057:a = b; |==> <NO-OP>
+535:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1095:38086:c < a |==> c != a
+536:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1095:38086:c < a |==> c <= a
+537:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1095:38088:c < a |==> false
+538:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(int,int,int):1096:38107:a = c; |==> <NO-OP>
+539:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1110:38427:b < a |==> b != a
+540:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1110:38427:b < a |==> b <= a
+541:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1110:38429:b < a |==> false
+542:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1111:38448:a = b; |==> <NO-OP>
+543:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1113:38477:c < a |==> c != a
+544:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1113:38477:c < a |==> c <= a
+545:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1113:38479:c < a |==> false
+546:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(short,short,short):1114:38498:a = c; |==> <NO-OP>
+547:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1128:38813:b < a |==> b != a
+548:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1128:38813:b < a |==> b <= a
+549:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1128:38815:b < a |==> false
+550:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1129:38834:a = b; |==> <NO-OP>
+551:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1131:38863:c < a |==> c != a
+552:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1131:38863:c < a |==> c <= a
+553:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1131:38865:c < a |==> false
+554:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@min(byte,byte,byte):1132:38884:a = c; |==> <NO-OP>
+555:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1180:40382:b > a |==> b != a
+556:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1180:40382:b > a |==> b >= a
+557:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1180:40384:b > a |==> false
+558:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1181:40403:a = b; |==> <NO-OP>
+559:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1183:40432:c > a |==> c != a
+560:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1183:40432:c > a |==> c >= a
+561:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1183:40434:c > a |==> false
+562:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(long,long,long):1184:40453:a = c; |==> <NO-OP>
+563:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1198:40762:b > a |==> b != a
+564:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1198:40762:b > a |==> b >= a
+565:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1198:40764:b > a |==> false
+566:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1199:40783:a = b; |==> <NO-OP>
+567:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1201:40812:c > a |==> c != a
+568:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1201:40812:c > a |==> c >= a
+569:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1201:40814:c > a |==> false
+570:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(int,int,int):1202:40833:a = c; |==> <NO-OP>
+571:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1216:41152:b > a |==> b != a
+572:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1216:41152:b > a |==> b >= a
+573:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1216:41154:b > a |==> false
+574:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1217:41173:a = b; |==> <NO-OP>
+575:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1219:41202:c > a |==> c != a
+576:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1219:41202:c > a |==> c >= a
+577:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1219:41204:c > a |==> false
+578:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(short,short,short):1220:41223:a = c; |==> <NO-OP>
+579:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1234:41537:b > a |==> b != a
+580:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1234:41537:b > a |==> b >= a
+581:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1234:41539:b > a |==> false
+582:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1235:41558:a = b; |==> <NO-OP>
+583:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1237:41587:c > a |==> c != a
+584:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1237:41587:c > a |==> c >= a
+585:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1237:41589:c > a |==> false
+586:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@max(byte,byte,byte):1238:41608:a = c; |==> <NO-OP>
+587:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1287:43224:StringUtils.isEmpty(str) |==> false
+588:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1287:43224:StringUtils.isEmpty(str) |==> true
+589:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1288:43252:false |==> true
+590:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1290:43290:0 |==> 1
+591:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1290:43290:0 |==> -1
+592:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1290:43293:i < str.length() |==> i != str.length()
+593:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1290:43293:i < str.length() |==> i <= str.length()
+594:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1290:43295:i < str.length() |==> false
+595:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1291:43352:Character.isDigit(str.charAt(i)) |==> false
+596:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1291:43352:Character.isDigit(str.charAt(i)) |==> true
+597:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1292:43394:false |==> true
+598:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isDigits(java.lang.String):1295:43440:true |==> false
+599:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1312:44029:StringUtils.isEmpty(str) |==> false
+600:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1312:44029:StringUtils.isEmpty(str) |==> true
+601:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1313:44057:false |==> true
+602:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1317:44172:false |==> true
+603:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1318:44209:false |==> true
+604:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1319:44245:false |==> true
+605:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1320:44281:false |==> true
+606:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44363:0 |==> 1
+607:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44363:0 |==> -1
+608:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44357:chars[0] == '-' |==> chars[0] <= '-'
+609:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44357:chars[0] == '-' |==> chars[0] >= '-'
+610:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44366:chars[0] == '-' |==> false
+611:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44376:1 |==> 0
+612:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44376:1 |==> -1
+613:LVR:0:POS:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44380:0 |==> 1
+614:LVR:0:NEG:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1322:44380:0 |==> -1
+615:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44408:1 |==> 0
+616:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44408:1 |==> -1
+617:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44400:start + 1 |==> start % 1
+618:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44400:start + 1 |==> start * 1
+619:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44400:start + 1 |==> start - 1
+620:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44400:start + 1 |==> start / 1
+621:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44395:sz > start + 1 |==> sz != start + 1
+622:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44395:sz > start + 1 |==> sz >= start + 1
+623:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44398:sz > start + 1 |==> false
+624:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44413:chars[start] == '0' |==> chars[start] <= '0'
+625:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44413:chars[start] == '0' |==> chars[start] >= '0'
+626:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44426:chars[start] == '0' |==> false
+627:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44395:sz > start + 1 && chars[start] == '0' |==> sz > start + 1 == (chars[start] == '0')
+628:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44410:sz > start + 1 && chars[start] == '0' |==> false
+629:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44395:sz > start + 1 && chars[start] == '0' |==> sz > start + 1
+630:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44413:sz > start + 1 && chars[start] == '0' |==> chars[start] == '0'
+631:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44450:1 |==> 0
+632:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44450:1 |==> -1
+633:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44442:start + 1 |==> start % 1
+634:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44442:start + 1 |==> start * 1
+635:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44442:start + 1 |==> start - 1
+636:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44442:start + 1 |==> start / 1
+637:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44436:chars[start + 1] == 'x' |==> chars[start + 1] <= 'x'
+638:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44436:chars[start + 1] == 'x' |==> chars[start + 1] >= 'x'
+639:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44453:chars[start + 1] == 'x' |==> false
+640:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44395:sz > start + 1 && chars[start] == '0' && chars[start + 1] == 'x' |==> (sz > start + 1 && chars[start] == '0') == (chars[start + 1] == 'x')
+641:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44433:sz > start + 1 && chars[start] == '0' && chars[start + 1] == 'x' |==> false
+642:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44395:sz > start + 1 && chars[start] == '0' && chars[start + 1] == 'x' |==> sz > start + 1 && chars[start] == '0'
+643:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1323:44436:sz > start + 1 && chars[start] == '0' && chars[start + 1] == 'x' |==> chars[start + 1] == 'x'
+644:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1324:44491:2 |==> 0
+645:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1324:44491:2 |==> -2
+646:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1324:44483:start + 2 |==> start % 2
+647:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1324:44483:start + 2 |==> start * 2
+648:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1324:44483:start + 2 |==> start - 2
+649:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1324:44483:start + 2 |==> start / 2
+650:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1325:44510:i == sz |==> i <= sz
+651:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1325:44510:i == sz |==> i >= sz
+652:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1325:44512:i == sz |==> false
+653:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1326:44544:false |==> true
+654:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1329:44655:i < chars.length |==> i != chars.length
+655:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1329:44655:i < chars.length |==> i <= chars.length
+656:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1329:44657:i < chars.length |==> false
+657:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44701:chars[i] < '0' |==> chars[i] != '0'
+658:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44701:chars[i] < '0' |==> chars[i] <= '0'
+659:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44710:chars[i] < '0' |==> false
+660:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44719:chars[i] > '9' |==> chars[i] != '9'
+661:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44719:chars[i] > '9' |==> chars[i] >= '9'
+662:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44728:chars[i] > '9' |==> false
+663:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44701:chars[i] < '0' || chars[i] > '9' |==> chars[i] < '0' != chars[i] > '9'
+664:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44701:chars[i] < '0' || chars[i] > '9' |==> chars[i] < '0'
+665:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44719:chars[i] < '0' || chars[i] > '9' |==> chars[i] > '9'
+666:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44716:chars[i] < '0' || chars[i] > '9' |==> true
+667:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44759:chars[i] < 'a' |==> chars[i] != 'a'
+668:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44759:chars[i] < 'a' |==> chars[i] <= 'a'
+669:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44768:chars[i] < 'a' |==> false
+670:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44777:chars[i] > 'f' |==> chars[i] != 'f'
+671:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44777:chars[i] > 'f' |==> chars[i] >= 'f'
+672:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44786:chars[i] > 'f' |==> false
+673:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44759:chars[i] < 'a' || chars[i] > 'f' |==> chars[i] < 'a' != chars[i] > 'f'
+674:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44759:chars[i] < 'a' || chars[i] > 'f' |==> chars[i] < 'a'
+675:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44777:chars[i] < 'a' || chars[i] > 'f' |==> chars[i] > 'f'
+676:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44774:chars[i] < 'a' || chars[i] > 'f' |==> true
+677:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44700:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') |==> (chars[i] < '0' || chars[i] > '9') == (chars[i] < 'a' || chars[i] > 'f')
+678:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44755:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') |==> false
+679:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44700:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') |==> (chars[i] < '0' || chars[i] > '9')
+680:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1331:44758:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') |==> (chars[i] < 'a' || chars[i] > 'f')
+681:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44817:chars[i] < 'A' |==> chars[i] != 'A'
+682:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44817:chars[i] < 'A' |==> chars[i] <= 'A'
+683:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44826:chars[i] < 'A' |==> false
+684:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44835:chars[i] > 'F' |==> chars[i] != 'F'
+685:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44835:chars[i] > 'F' |==> chars[i] >= 'F'
+686:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44844:chars[i] > 'F' |==> false
+687:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44817:chars[i] < 'A' || chars[i] > 'F' |==> chars[i] < 'A' != chars[i] > 'F'
+688:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44817:chars[i] < 'A' || chars[i] > 'F' |==> chars[i] < 'A'
+689:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44835:chars[i] < 'A' || chars[i] > 'F' |==> chars[i] > 'F'
+690:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44832:chars[i] < 'A' || chars[i] > 'F' |==> true
+691:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44700:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') && (chars[i] < 'A' || chars[i] > 'F') |==> ((chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f')) == (chars[i] < 'A' || chars[i] > 'F')
+692:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44813:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') && (chars[i] < 'A' || chars[i] > 'F') |==> false
+693:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1330:44700:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') && (chars[i] < 'A' || chars[i] > 'F') |==> (chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f')
+694:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1332:44816:(chars[i] < '0' || chars[i] > '9') && (chars[i] < 'a' || chars[i] > 'f') && (chars[i] < 'A' || chars[i] > 'F') |==> (chars[i] < 'A' || chars[i] > 'F')
+695:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1333:44881:false |==> true
+696:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1336:44939:true |==> false
+697:STD:<DEC>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1338:44963:sz--; |==> <NO-OP>
+698:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45253:i < sz |==> i != sz
+699:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45253:i < sz |==> i <= sz
+700:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45255:i < sz |==> false
+701:LVR:POS:0:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45273:1 |==> 0
+702:LVR:POS:NEG:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45273:1 |==> -1
+703:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45268:sz + 1 |==> sz % 1
+704:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45268:sz + 1 |==> sz * 1
+705:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45268:sz + 1 |==> sz - 1
+706:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45268:sz + 1 |==> sz / 1
+707:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45264:i < sz + 1 |==> i != sz + 1
+708:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45264:i < sz + 1 |==> i <= sz + 1
+709:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45266:i < sz + 1 |==> false
+710:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45264:i < sz + 1 && allowSigns |==> i < sz + 1 == allowSigns
+711:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45275:i < sz + 1 && allowSigns |==> false
+712:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45264:i < sz + 1 && allowSigns |==> i < sz + 1
+713:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45278:i < sz + 1 && allowSigns |==> allowSigns
+714:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45264:i < sz + 1 && allowSigns && !foundDigit |==> (i < sz + 1 && allowSigns) == !foundDigit
+715:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45289:i < sz + 1 && allowSigns && !foundDigit |==> false
+716:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45264:i < sz + 1 && allowSigns && !foundDigit |==> i < sz + 1 && allowSigns
+717:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45292:i < sz + 1 && allowSigns && !foundDigit |==> !foundDigit
+718:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45253:i < sz || (i < sz + 1 && allowSigns && !foundDigit) |==> i < sz != (i < sz + 1 && allowSigns && !foundDigit)
+719:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45253:i < sz || (i < sz + 1 && allowSigns && !foundDigit) |==> i < sz
+720:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45263:i < sz || (i < sz + 1 && allowSigns && !foundDigit) |==> (i < sz + 1 && allowSigns && !foundDigit)
+721:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1343:45260:i < sz || (i < sz + 1 && allowSigns && !foundDigit) |==> true
+722:ROR:>=(int,int):==(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45324:chars[i] >= '0' |==> chars[i] == '0'
+723:ROR:>=(int,int):>(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45324:chars[i] >= '0' |==> chars[i] > '0'
+724:ROR:>=(int,int):TRUE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45333:chars[i] >= '0' |==> true
+725:ROR:<=(int,int):<(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45343:chars[i] <= '9' |==> chars[i] < '9'
+726:ROR:<=(int,int):==(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45343:chars[i] <= '9' |==> chars[i] == '9'
+727:ROR:<=(int,int):TRUE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45352:chars[i] <= '9' |==> true
+728:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45324:chars[i] >= '0' && chars[i] <= '9' |==> chars[i] >= '0' == chars[i] <= '9'
+729:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45340:chars[i] >= '0' && chars[i] <= '9' |==> false
+730:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45324:chars[i] >= '0' && chars[i] <= '9' |==> chars[i] >= '0'
+731:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1344:45343:chars[i] >= '0' && chars[i] <= '9' |==> chars[i] <= '9'
+732:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1345:45391:true |==> false
+733:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1345:45378:foundDigit = true; |==> <NO-OP>
+734:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1346:45426:false |==> true
+735:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1346:45413:allowSigns = false; |==> <NO-OP>
+736:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1348:45457:chars[i] == '.' |==> chars[i] <= '.'
+737:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1348:45457:chars[i] == '.' |==> chars[i] >= '.'
+738:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1348:45466:chars[i] == '.' |==> false
+739:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1349:45496:hasDecPoint || hasExp |==> hasDecPoint != hasExp
+740:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1349:45496:hasDecPoint || hasExp |==> hasDecPoint
+741:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1349:45511:hasDecPoint || hasExp |==> hasExp
+742:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1349:45508:hasDecPoint || hasExp |==> true
+743:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1351:45612:false |==> true
+744:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1353:45667:true |==> false
+745:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1353:45653:hasDecPoint = true; |==> <NO-OP>
+746:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45696:chars[i] == 'e' |==> chars[i] <= 'e'
+747:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45696:chars[i] == 'e' |==> chars[i] >= 'e'
+748:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45705:chars[i] == 'e' |==> false
+749:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45715:chars[i] == 'E' |==> chars[i] <= 'E'
+750:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45715:chars[i] == 'E' |==> chars[i] >= 'E'
+751:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45724:chars[i] == 'E' |==> false
+752:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45696:chars[i] == 'e' || chars[i] == 'E' |==> chars[i] == 'e' != (chars[i] == 'E')
+753:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45696:chars[i] == 'e' || chars[i] == 'E' |==> chars[i] == 'e'
+754:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45715:chars[i] == 'e' || chars[i] == 'E' |==> chars[i] == 'E'
+755:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1354:45712:chars[i] == 'e' || chars[i] == 'E' |==> true
+756:COR:<IDENTIFIER(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1356:45806:hasExp |==> false
+757:COR:<IDENTIFIER(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1356:45806:hasExp |==> true
+758:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1358:45874:false |==> true
+759:COR:<IDENTIFIER(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1360:45920:foundDigit |==> false
+760:COR:<IDENTIFIER(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1360:45920:foundDigit |==> true
+761:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1361:45961:false |==> true
+762:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1363:46011:true |==> false
+763:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1363:46002:hasExp = true; |==> <NO-OP>
+764:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1364:46046:true |==> false
+765:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1364:46033:allowSigns = true; |==> <NO-OP>
+766:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46075:chars[i] == '+' |==> chars[i] <= '+'
+767:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46075:chars[i] == '+' |==> chars[i] >= '+'
+768:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46084:chars[i] == '+' |==> false
+769:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46094:chars[i] == '-' |==> chars[i] <= '-'
+770:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46094:chars[i] == '-' |==> chars[i] >= '-'
+771:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46103:chars[i] == '-' |==> false
+772:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46075:chars[i] == '+' || chars[i] == '-' |==> chars[i] == '+' != (chars[i] == '-')
+773:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46075:chars[i] == '+' || chars[i] == '-' |==> chars[i] == '+'
+774:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46094:chars[i] == '+' || chars[i] == '-' |==> chars[i] == '-'
+775:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1365:46091:chars[i] == '+' || chars[i] == '-' |==> true
+776:COR:<IDENTIFIER(boolean)>:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1366:46134:allowSigns |==> false
+777:COR:<IDENTIFIER(boolean)>:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1366:46134:allowSigns |==> true
+778:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1367:46175:false |==> true
+779:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1369:46229:false |==> true
+780:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1369:46216:allowSigns = false; |==> <NO-OP>
+781:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1370:46265:false |==> true
+782:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1370:46252:foundDigit = false; |==> <NO-OP>
+783:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1372:46347:false |==> true
+784:STD:<INC>:<NO-OP>:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1374:46380:i++; |==> <NO-OP>
+785:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1376:46407:i < chars.length |==> i != chars.length
+786:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1376:46407:i < chars.length |==> i <= chars.length
+787:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1376:46409:i < chars.length |==> false
+788:ROR:>=(int,int):==(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46443:chars[i] >= '0' |==> chars[i] == '0'
+789:ROR:>=(int,int):>(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46443:chars[i] >= '0' |==> chars[i] > '0'
+790:ROR:>=(int,int):TRUE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46452:chars[i] >= '0' |==> true
+791:ROR:<=(int,int):<(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46462:chars[i] <= '9' |==> chars[i] < '9'
+792:ROR:<=(int,int):==(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46462:chars[i] <= '9' |==> chars[i] == '9'
+793:ROR:<=(int,int):TRUE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46471:chars[i] <= '9' |==> true
+794:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46443:chars[i] >= '0' && chars[i] <= '9' |==> chars[i] >= '0' == chars[i] <= '9'
+795:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46459:chars[i] >= '0' && chars[i] <= '9' |==> false
+796:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46443:chars[i] >= '0' && chars[i] <= '9' |==> chars[i] >= '0'
+797:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1377:46462:chars[i] >= '0' && chars[i] <= '9' |==> chars[i] <= '9'
+798:LVR:TRUE:FALSE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1379:46545:true |==> false
+799:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46581:chars[i] == 'e' |==> chars[i] <= 'e'
+800:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46581:chars[i] == 'e' |==> chars[i] >= 'e'
+801:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46590:chars[i] == 'e' |==> false
+802:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46600:chars[i] == 'E' |==> chars[i] <= 'E'
+803:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46600:chars[i] == 'E' |==> chars[i] >= 'E'
+804:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46609:chars[i] == 'E' |==> false
+805:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46581:chars[i] == 'e' || chars[i] == 'E' |==> chars[i] == 'e' != (chars[i] == 'E')
+806:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46581:chars[i] == 'e' || chars[i] == 'E' |==> chars[i] == 'e'
+807:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46600:chars[i] == 'e' || chars[i] == 'E' |==> chars[i] == 'E'
+808:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1381:46597:chars[i] == 'e' || chars[i] == 'E' |==> true
+809:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1383:46694:false |==> true
+810:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1385:46731:chars[i] == '.' |==> chars[i] <= '.'
+811:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1385:46731:chars[i] == '.' |==> chars[i] >= '.'
+812:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1385:46740:chars[i] == '.' |==> false
+813:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1386:46770:hasDecPoint || hasExp |==> hasDecPoint != hasExp
+814:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1386:46770:hasDecPoint || hasExp |==> hasDecPoint
+815:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1386:46785:hasDecPoint || hasExp |==> hasExp
+816:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1386:46782:hasDecPoint || hasExp |==> true
+817:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1388:46883:false |==> true
+818:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' |==> chars[i] <= 'd'
+819:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' |==> chars[i] >= 'd'
+820:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47088:chars[i] == 'd' |==> false
+821:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1395:47118:chars[i] == 'D' |==> chars[i] <= 'D'
+822:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1395:47118:chars[i] == 'D' |==> chars[i] >= 'D'
+823:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1395:47127:chars[i] == 'D' |==> false
+824:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' || chars[i] == 'D' |==> chars[i] == 'd' != (chars[i] == 'D')
+825:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' || chars[i] == 'D' |==> chars[i] == 'd'
+826:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1395:47118:chars[i] == 'd' || chars[i] == 'D' |==> chars[i] == 'D'
+827:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1395:47115:chars[i] == 'd' || chars[i] == 'D' |==> true
+828:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1396:47157:chars[i] == 'f' |==> chars[i] <= 'f'
+829:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1396:47157:chars[i] == 'f' |==> chars[i] >= 'f'
+830:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1396:47166:chars[i] == 'f' |==> false
+831:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' |==> (chars[i] == 'd' || chars[i] == 'D') != (chars[i] == 'f')
+832:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' |==> chars[i] == 'd' || chars[i] == 'D'
+833:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1396:47157:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' |==> chars[i] == 'f'
+834:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1396:47154:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' |==> true
+835:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1397:47196:chars[i] == 'F' |==> chars[i] <= 'F'
+836:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1397:47196:chars[i] == 'F' |==> chars[i] >= 'F'
+837:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1397:47205:chars[i] == 'F' |==> false
+838:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F' |==> (chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f') != (chars[i] == 'F')
+839:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47079:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F' |==> chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f'
+840:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1397:47196:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F' |==> chars[i] == 'F'
+841:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1397:47193:chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F' |==> true
+842:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1393:47047:!allowSigns && (chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F') |==> !allowSigns == (chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F')
+843:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47075:!allowSigns && (chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F') |==> false
+844:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1393:47047:!allowSigns && (chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F') |==> !allowSigns
+845:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1394:47078:!allowSigns && (chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F') |==> (chars[i] == 'd' || chars[i] == 'D' || chars[i] == 'f' || chars[i] == 'F')
+846:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1400:47281:chars[i] == 'l' |==> chars[i] <= 'l'
+847:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1400:47281:chars[i] == 'l' |==> chars[i] >= 'l'
+848:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1400:47290:chars[i] == 'l' |==> false
+849:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1401:47316:chars[i] == 'L' |==> chars[i] <= 'L'
+850:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1401:47316:chars[i] == 'L' |==> chars[i] >= 'L'
+851:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1401:47325:chars[i] == 'L' |==> false
+852:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1400:47281:chars[i] == 'l' || chars[i] == 'L' |==> chars[i] == 'l' != (chars[i] == 'L')
+853:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1400:47281:chars[i] == 'l' || chars[i] == 'L' |==> chars[i] == 'l'
+854:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1401:47316:chars[i] == 'l' || chars[i] == 'L' |==> chars[i] == 'L'
+855:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1401:47313:chars[i] == 'l' || chars[i] == 'L' |==> true
+856:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47426:foundDigit && !hasExp |==> foundDigit == !hasExp
+857:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47437:foundDigit && !hasExp |==> false
+858:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47426:foundDigit && !hasExp |==> foundDigit
+859:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47440:foundDigit && !hasExp |==> !hasExp
+860:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47426:foundDigit && !hasExp && !hasDecPoint |==> (foundDigit && !hasExp) == !hasDecPoint
+861:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47448:foundDigit && !hasExp && !hasDecPoint |==> false
+862:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47426:foundDigit && !hasExp && !hasDecPoint |==> foundDigit && !hasExp
+863:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1403:47451:foundDigit && !hasExp && !hasDecPoint |==> !hasDecPoint
+864:LVR:FALSE:TRUE:org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1406:47539:false |==> true
+865:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1410:47708:!allowSigns && foundDigit |==> !allowSigns == foundDigit
+866:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1410:47720:!allowSigns && foundDigit |==> false
+867:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1410:47708:!allowSigns && foundDigit |==> !allowSigns
+868:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.NumberUtils@isNumber(java.lang.String):1410:47723:!allowSigns && foundDigit |==> foundDigit

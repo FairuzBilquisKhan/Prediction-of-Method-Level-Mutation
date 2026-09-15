@@ -1,0 +1,901 @@
+1:LVR:0:POS:org.apache.commons.lang3.math.Fraction:52:1885:0 |==> 1
+2:LVR:0:NEG:org.apache.commons.lang3.math.Fraction:52:1885:0 |==> -1
+3:LVR:POS:0:org.apache.commons.lang3.math.Fraction:52:1888:1 |==> 0
+4:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:52:1888:1 |==> -1
+5:LVR:POS:0:org.apache.commons.lang3.math.Fraction:56:2010:1 |==> 0
+6:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:56:2010:1 |==> -1
+7:LVR:POS:0:org.apache.commons.lang3.math.Fraction:56:2013:1 |==> 0
+8:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:56:2013:1 |==> -1
+9:LVR:POS:0:org.apache.commons.lang3.math.Fraction:60:2142:1 |==> 0
+10:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:60:2142:1 |==> -1
+11:LVR:POS:0:org.apache.commons.lang3.math.Fraction:60:2145:2 |==> 0
+12:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:60:2145:2 |==> -2
+13:LVR:POS:0:org.apache.commons.lang3.math.Fraction:64:2275:1 |==> 0
+14:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:64:2275:1 |==> -1
+15:LVR:POS:0:org.apache.commons.lang3.math.Fraction:64:2278:3 |==> 0
+16:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:64:2278:3 |==> -3
+17:LVR:POS:0:org.apache.commons.lang3.math.Fraction:68:2409:2 |==> 0
+18:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:68:2409:2 |==> -2
+19:LVR:POS:0:org.apache.commons.lang3.math.Fraction:68:2412:3 |==> 0
+20:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:68:2412:3 |==> -3
+21:LVR:POS:0:org.apache.commons.lang3.math.Fraction:72:2544:1 |==> 0
+22:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:72:2544:1 |==> -1
+23:LVR:POS:0:org.apache.commons.lang3.math.Fraction:72:2547:4 |==> 0
+24:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:72:2547:4 |==> -4
+25:LVR:POS:0:org.apache.commons.lang3.math.Fraction:76:2680:2 |==> 0
+26:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:76:2680:2 |==> -2
+27:LVR:POS:0:org.apache.commons.lang3.math.Fraction:76:2683:4 |==> 0
+28:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:76:2683:4 |==> -4
+29:LVR:POS:0:org.apache.commons.lang3.math.Fraction:80:2818:3 |==> 0
+30:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:80:2818:3 |==> -3
+31:LVR:POS:0:org.apache.commons.lang3.math.Fraction:80:2821:4 |==> 0
+32:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:80:2821:4 |==> -4
+33:LVR:POS:0:org.apache.commons.lang3.math.Fraction:84:2951:1 |==> 0
+34:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:84:2951:1 |==> -1
+35:LVR:POS:0:org.apache.commons.lang3.math.Fraction:84:2954:5 |==> 0
+36:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:84:2954:5 |==> -5
+37:LVR:POS:0:org.apache.commons.lang3.math.Fraction:88:3085:2 |==> 0
+38:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:88:3085:2 |==> -2
+39:LVR:POS:0:org.apache.commons.lang3.math.Fraction:88:3088:5 |==> 0
+40:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:88:3088:5 |==> -5
+41:LVR:POS:0:org.apache.commons.lang3.math.Fraction:92:3221:3 |==> 0
+42:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:92:3221:3 |==> -3
+43:LVR:POS:0:org.apache.commons.lang3.math.Fraction:92:3224:5 |==> 0
+44:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:92:3224:5 |==> -5
+45:LVR:POS:0:org.apache.commons.lang3.math.Fraction:96:3356:4 |==> 0
+46:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:96:3356:4 |==> -4
+47:LVR:POS:0:org.apache.commons.lang3.math.Fraction:96:3359:5 |==> 0
+48:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction:96:3359:5 |==> -5
+49:LVR:0:POS:org.apache.commons.lang3.math.Fraction:111:3733:0 |==> 1
+50:LVR:0:NEG:org.apache.commons.lang3.math.Fraction:111:3733:0 |==> -1
+51:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(int,int):147:5097:0 |==> 1
+52:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(int,int):147:5097:0 |==> -1
+53:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):147:5082:denominator == 0 |==> denominator <= 0
+54:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):147:5082:denominator == 0 |==> denominator >= 0
+55:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):147:5094:denominator == 0 |==> false
+56:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(int,int):150:5217:0 |==> 1
+57:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(int,int):150:5217:0 |==> -1
+58:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):150:5203:denominator < 0 |==> denominator != 0
+59:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):150:5203:denominator < 0 |==> denominator <= 0
+60:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):150:5215:denominator < 0 |==> false
+61:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):151:5238:numerator == Integer.MIN_VALUE |==> numerator >= Integer.MIN_VALUE
+62:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):151:5247:numerator == Integer.MIN_VALUE |==> false
+63:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):152:5290:denominator == Integer.MIN_VALUE |==> denominator >= Integer.MIN_VALUE
+64:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):152:5301:denominator == Integer.MIN_VALUE |==> false
+65:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(int,int):151:5238:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> numerator == Integer.MIN_VALUE != (denominator == Integer.MIN_VALUE)
+66:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(int,int):151:5238:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> numerator == Integer.MIN_VALUE
+67:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(int,int):152:5290:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> denominator == Integer.MIN_VALUE
+68:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(int,int):151:5267:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> true
+69:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):155:5435:-numerator |==> +numerator
+70:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):155:5435:-numerator |==> ~numerator
+71:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(int,int):155:5423:numerator = -numerator; |==> <NO-OP>
+72:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):156:5473:-denominator |==> +denominator
+73:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@getFraction(int,int):156:5473:-denominator |==> ~denominator
+74:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(int,int):156:5459:denominator = -denominator; |==> <NO-OP>
+75:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):178:6499:0 |==> 1
+76:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):178:6499:0 |==> -1
+77:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):178:6484:denominator == 0 |==> denominator <= 0
+78:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):178:6484:denominator == 0 |==> denominator >= 0
+79:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):178:6496:denominator == 0 |==> false
+80:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):181:6619:0 |==> 1
+81:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):181:6619:0 |==> -1
+82:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):181:6605:denominator < 0 |==> denominator != 0
+83:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):181:6605:denominator < 0 |==> denominator <= 0
+84:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):181:6617:denominator < 0 |==> false
+85:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):184:6741:0 |==> 1
+86:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):184:6741:0 |==> -1
+87:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):184:6729:numerator < 0 |==> numerator != 0
+88:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):184:6729:numerator < 0 |==> numerator <= 0
+89:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):184:6739:numerator < 0 |==> false
+90:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):188:6886:0 |==> 1
+91:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):188:6886:0 |==> -1
+92:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):188:6878:whole < 0 |==> whole != 0
+93:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):188:6878:whole < 0 |==> whole <= 0
+94:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):188:6884:whole < 0 |==> false
+95:AOR:*(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator |==> whole % (long)denominator
+96:AOR:*(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator |==> whole + (long)denominator
+97:AOR:*(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator |==> whole - (long)denominator
+98:AOR:*(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator |==> whole / (long)denominator
+99:AOR:-(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator - numerator |==> whole * (long)denominator % numerator
+100:AOR:-(long,long):*(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator - numerator |==> whole * (long)denominator * numerator
+101:AOR:-(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator - numerator |==> whole * (long)denominator + numerator
+102:AOR:-(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):189:6920:whole * (long)denominator - numerator |==> whole * (long)denominator / numerator
+103:AOR:*(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator |==> whole % (long)denominator
+104:AOR:*(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator |==> whole + (long)denominator
+105:AOR:*(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator |==> whole - (long)denominator
+106:AOR:*(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator |==> whole / (long)denominator
+107:AOR:+(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator + numerator |==> whole * (long)denominator % numerator
+108:AOR:+(long,long):*(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator + numerator |==> whole * (long)denominator * numerator
+109:AOR:+(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator + numerator |==> whole * (long)denominator - numerator
+110:AOR:+(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):191:7005:whole * (long)denominator + numerator |==> whole * (long)denominator / numerator
+111:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):193:7066:numeratorValue < Integer.MIN_VALUE |==> numeratorValue != Integer.MIN_VALUE
+112:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):193:7066:numeratorValue < Integer.MIN_VALUE |==> numeratorValue <= Integer.MIN_VALUE
+113:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):193:7081:numeratorValue < Integer.MIN_VALUE |==> false
+114:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):194:7120:numeratorValue > Integer.MAX_VALUE |==> numeratorValue != Integer.MAX_VALUE
+115:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):194:7120:numeratorValue > Integer.MAX_VALUE |==> numeratorValue >= Integer.MAX_VALUE
+116:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):194:7135:numeratorValue > Integer.MAX_VALUE |==> false
+117:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):193:7066:numeratorValue < Integer.MIN_VALUE || numeratorValue > Integer.MAX_VALUE |==> numeratorValue < Integer.MIN_VALUE
+118:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):194:7120:numeratorValue < Integer.MIN_VALUE || numeratorValue > Integer.MAX_VALUE |==> numeratorValue > Integer.MAX_VALUE
+119:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(int,int,int):193:7101:numeratorValue < Integer.MIN_VALUE || numeratorValue > Integer.MAX_VALUE |==> true
+120:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):215:8092:0 |==> 1
+121:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):215:8092:0 |==> -1
+122:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):215:8077:denominator == 0 |==> denominator <= 0
+123:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):215:8077:denominator == 0 |==> denominator >= 0
+124:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):215:8089:denominator == 0 |==> false
+125:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):218:8209:0 |==> 1
+126:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):218:8209:0 |==> -1
+127:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):218:8198:numerator == 0 |==> numerator <= 0
+128:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):218:8198:numerator == 0 |==> numerator >= 0
+129:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):218:8207:numerator == 0 |==> false
+130:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8339:denominator == Integer.MIN_VALUE |==> denominator >= Integer.MIN_VALUE
+131:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8350:denominator == Integer.MIN_VALUE |==> false
+132:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8384:1 |==> 0
+133:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8384:1 |==> -1
+134:LOR:&(int,int):^(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8374:numerator & 1 |==> numerator ^ 1
+135:LOR:&(int,int):|(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8374:numerator & 1 |==> numerator | 1
+136:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8388:0 |==> 1
+137:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8388:0 |==> -1
+138:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8373:(numerator & 1) == 0 |==> (numerator & 1) <= 0
+139:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8373:(numerator & 1) == 0 |==> (numerator & 1) >= 0
+140:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8386:(numerator & 1) == 0 |==> false
+141:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8339:denominator == Integer.MIN_VALUE && (numerator & 1) == 0 |==> denominator == Integer.MIN_VALUE == ((numerator & 1) == 0)
+142:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8370:denominator == Integer.MIN_VALUE && (numerator & 1) == 0 |==> false
+143:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8339:denominator == Integer.MIN_VALUE && (numerator & 1) == 0 |==> denominator == Integer.MIN_VALUE
+144:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):222:8373:denominator == Integer.MIN_VALUE && (numerator & 1) == 0 |==> (numerator & 1) == 0
+145:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):223:8416:2 |==> 0
+146:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):223:8416:2 |==> -2
+147:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):223:8405:numerator /= 2; |==> <NO-OP>
+148:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):223:8432:2 |==> 0
+149:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):223:8432:2 |==> -2
+150:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):223:8419:denominator /= 2; |==> <NO-OP>
+151:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):225:8471:0 |==> 1
+152:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):225:8471:0 |==> -1
+153:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):225:8457:denominator < 0 |==> denominator != 0
+154:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):225:8457:denominator < 0 |==> denominator <= 0
+155:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):225:8469:denominator < 0 |==> false
+156:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):226:8492:numerator == Integer.MIN_VALUE |==> numerator >= Integer.MIN_VALUE
+157:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):226:8501:numerator == Integer.MIN_VALUE |==> false
+158:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):227:8544:denominator == Integer.MIN_VALUE |==> denominator >= Integer.MIN_VALUE
+159:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):227:8555:denominator == Integer.MIN_VALUE |==> false
+160:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):226:8492:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> numerator == Integer.MIN_VALUE != (denominator == Integer.MIN_VALUE)
+161:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):226:8492:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> numerator == Integer.MIN_VALUE
+162:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):227:8544:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> denominator == Integer.MIN_VALUE
+163:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):226:8521:numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE |==> true
+164:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):230:8689:-numerator |==> +numerator
+165:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):230:8689:-numerator |==> ~numerator
+166:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):230:8677:numerator = -numerator; |==> <NO-OP>
+167:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):231:8727:-denominator |==> +denominator
+168:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):231:8727:-denominator |==> ~denominator
+169:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):231:8713:denominator = -denominator; |==> <NO-OP>
+170:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):235:8854:numerator /= gcd; |==> <NO-OP>
+171:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getReducedFraction(int,int):236:8880:denominator /= gcd; |==> <NO-OP>
+172:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(double):255:9780:0 |==> 1
+173:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):255:9780:0 |==> -1
+174:ROR:<(double,double):!=(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):255:9772:value < 0 |==> value != 0
+175:ROR:<(double,double):<=(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):255:9772:value < 0 |==> value <= 0
+176:ROR:<(double,double):FALSE(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):255:9778:value < 0 |==> false
+177:LVR:NEG:0:org.apache.commons.lang3.math.Fraction@getFraction(double):255:9784:-1 |==> 0
+178:LVR:NEG:POS:org.apache.commons.lang3.math.Fraction@getFraction(double):255:9784:-1 |==> 1
+179:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):255:9789:1 |==> 0
+180:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):255:9789:1 |==> -1
+181:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):256:9801:value = Math.abs(value); |==> <NO-OP>
+182:ROR:>(double,double):!=(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):257:9838:value > Integer.MAX_VALUE |==> value != Integer.MAX_VALUE
+183:ROR:>(double,double):>=(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):257:9838:value > Integer.MAX_VALUE |==> value >= Integer.MAX_VALUE
+184:ROR:>(double,double):FALSE(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):257:9845:value > Integer.MAX_VALUE |==> false
+185:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):257:9838:value > Integer.MAX_VALUE || Double.isNaN(value) |==> value > Integer.MAX_VALUE != Double.isNaN(value)
+186:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):257:9838:value > Integer.MAX_VALUE || Double.isNaN(value) |==> value > Integer.MAX_VALUE
+187:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):257:9868:value > Integer.MAX_VALUE || Double.isNaN(value) |==> Double.isNaN(value)
+188:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):257:9865:value > Integer.MAX_VALUE || Double.isNaN(value) |==> true
+189:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):262:10071:value -= wholeNumber; |==> <NO-OP>
+190:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(double):264:10123:0 |==> 1
+191:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):264:10123:0 |==> -1
+192:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):265:10168:1 |==> 0
+193:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):265:10168:1 |==> -1
+194:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):266:10213:1 |==> 0
+195:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):266:10213:1 |==> -1
+196:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(double):267:10254:0 |==> 1
+197:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):267:10254:0 |==> -1
+198:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):272:10468:1 |==> 0
+199:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):272:10468:1 |==> -1
+200:AOR:-(double,double):%(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):274:10514:value - a1 |==> value % a1
+201:AOR:-(double,double):*(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):274:10514:value - a1 |==> value * a1
+202:AOR:-(double,double):+(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):274:10514:value - a1 |==> value + a1
+203:AOR:-(double,double):/(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):274:10514:value - a1 |==> value / a1
+204:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):278:10640:1 |==> 0
+205:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):278:10640:1 |==> -1
+206:AOR:/(double,double):%(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):282:10746:x1 / y1 |==> x1 % y1
+207:AOR:/(double,double):*(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):282:10746:x1 / y1 |==> x1 * y1
+208:AOR:/(double,double):+(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):282:10746:x1 / y1 |==> x1 + y1
+209:AOR:/(double,double):-(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):282:10746:x1 / y1 |==> x1 - y1
+210:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):282:10734:a2 = (int)(x1 / y1); |==> <NO-OP>
+211:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):283:10768:x2 = y1; |==> <NO-OP>
+212:AOR:*(double,double):%(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10799:a2 * y1 |==> a2 % y1
+213:AOR:*(double,double):+(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10799:a2 * y1 |==> a2 + y1
+214:AOR:*(double,double):-(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10799:a2 * y1 |==> a2 - y1
+215:AOR:*(double,double):/(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10799:a2 * y1 |==> a2 / y1
+216:AOR:-(double,double):%(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10794:x1 - a2 * y1 |==> x1 % (a2 * y1)
+217:AOR:-(double,double):*(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10794:x1 - a2 * y1 |==> x1 * (a2 * y1)
+218:AOR:-(double,double):+(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10794:x1 - a2 * y1 |==> x1 + a2 * y1
+219:AOR:-(double,double):/(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):284:10794:x1 - a2 * y1 |==> x1 / (a2 * y1)
+220:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):284:10789:y2 = x1 - a2 * y1; |==> <NO-OP>
+221:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 |==> a1 % numer1
+222:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 |==> a1 + numer1
+223:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 |==> a1 - numer1
+224:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 |==> a1 / numer1
+225:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 + numer0 |==> a1 * numer1 % numer0
+226:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 + numer0 |==> a1 * numer1 * numer0
+227:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 + numer0 |==> a1 * numer1 - numer0
+228:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):285:10829:a1 * numer1 + numer0 |==> a1 * numer1 / numer0
+229:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):285:10820:numer2 = a1 * numer1 + numer0; |==> <NO-OP>
+230:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 |==> a1 % denom1
+231:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 |==> a1 + denom1
+232:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 |==> a1 - denom1
+233:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 |==> a1 / denom1
+234:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 + denom0 |==> a1 * denom1 % denom0
+235:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 + denom0 |==> a1 * denom1 * denom0
+236:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 + denom0 |==> a1 * denom1 - denom0
+237:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):286:10872:a1 * denom1 + denom0 |==> a1 * denom1 / denom0
+238:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):286:10863:denom2 = a1 * denom1 + denom0; |==> <NO-OP>
+239:AOR:/(double,double):%(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):287:10917:(double)numer2 / (double)denom2 |==> (double)numer2 % (double)denom2
+240:AOR:/(double,double):*(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):287:10917:(double)numer2 / (double)denom2 |==> (double)numer2 * (double)denom2
+241:AOR:/(double,double):+(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):287:10917:(double)numer2 / (double)denom2 |==> (double)numer2 + (double)denom2
+242:AOR:/(double,double):-(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):287:10917:(double)numer2 / (double)denom2 |==> (double)numer2 - (double)denom2
+243:AOR:-(double,double):%(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):288:10982:value - fraction |==> value % fraction
+244:AOR:-(double,double):*(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):288:10982:value - fraction |==> value * fraction
+245:AOR:-(double,double):+(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):288:10982:value - fraction |==> value + fraction
+246:AOR:-(double,double):/(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):288:10982:value - fraction |==> value / fraction
+247:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):288:10964:delta2 = Math.abs(value - fraction); |==> <NO-OP>
+248:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):290:11113:a1 = a2; |==> <NO-OP>
+249:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):291:11134:x1 = x2; |==> <NO-OP>
+250:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):292:11155:y1 = y2; |==> <NO-OP>
+251:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):293:11176:numer0 = numer1; |==> <NO-OP>
+252:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):294:11205:denom0 = denom1; |==> <NO-OP>
+253:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):295:11234:numer1 = numer2; |==> <NO-OP>
+254:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):296:11263:denom1 = denom2; |==> <NO-OP>
+255:STD:<INC>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(double):297:11292:i++; |==> <NO-OP>
+256:ROR:>(double,double):!=(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11416:delta1 > delta2 |==> delta1 != delta2
+257:ROR:>(double,double):>=(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11416:delta1 > delta2 |==> delta1 >= delta2
+258:ROR:>(double,double):FALSE(double,double):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11423:delta1 > delta2 |==> false
+259:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):299:11447:10000 |==> 0
+260:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):299:11447:10000 |==> -10000
+261:ROR:<=(int,int):<(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11437:denom2 <= 10000 |==> denom2 < 10000
+262:ROR:<=(int,int):==(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11437:denom2 <= 10000 |==> denom2 == 10000
+263:ROR:<=(int,int):TRUE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11444:denom2 <= 10000 |==> true
+264:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11415:(delta1 > delta2) && (denom2 <= 10000) |==> (delta1 > delta2) == (denom2 <= 10000)
+265:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11433:(delta1 > delta2) && (denom2 <= 10000) |==> false
+266:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11415:(delta1 > delta2) && (denom2 <= 10000) |==> (delta1 > delta2)
+267:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11436:(delta1 > delta2) && (denom2 <= 10000) |==> (denom2 <= 10000)
+268:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(double):299:11467:0 |==> 1
+269:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):299:11467:0 |==> -1
+270:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11458:denom2 > 0 |==> denom2 != 0
+271:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11458:denom2 > 0 |==> denom2 >= 0
+272:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11465:denom2 > 0 |==> false
+273:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11415:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) |==> ((delta1 > delta2) && (denom2 <= 10000)) == (denom2 > 0)
+274:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11454:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) |==> false
+275:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11415:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) |==> (delta1 > delta2) && (denom2 <= 10000)
+276:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11457:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) |==> (denom2 > 0)
+277:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):299:11478:25 |==> 0
+278:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):299:11478:25 |==> -25
+279:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11474:i < 25 |==> i != 25
+280:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11474:i < 25 |==> i <= 25
+281:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11476:i < 25 |==> false
+282:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11415:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) && (i < 25) |==> ((delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0)) == (i < 25)
+283:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11470:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) && (i < 25) |==> false
+284:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11415:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) && (i < 25) |==> (delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0)
+285:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@getFraction(double):299:11473:(delta1 > delta2) && (denom2 <= 10000) && (denom2 > 0) && (i < 25) |==> (i < 25)
+286:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(double):300:11501:25 |==> 0
+287:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(double):300:11501:25 |==> -25
+288:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):300:11496:i == 25 |==> i <= 25
+289:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):300:11496:i == 25 |==> i >= 25
+290:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):300:11498:i == 25 |==> false
+291:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11644:wholeNumber * denom0 |==> wholeNumber % denom0
+292:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11644:wholeNumber * denom0 |==> wholeNumber + denom0
+293:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11644:wholeNumber * denom0 |==> wholeNumber - denom0
+294:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11644:wholeNumber * denom0 |==> wholeNumber / denom0
+295:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11635:numer0 + wholeNumber * denom0 |==> numer0 % (wholeNumber * denom0)
+296:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11635:numer0 + wholeNumber * denom0 |==> numer0 * (wholeNumber * denom0)
+297:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11635:numer0 + wholeNumber * denom0 |==> numer0 - wholeNumber * denom0
+298:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11635:numer0 + wholeNumber * denom0 |==> numer0 / (wholeNumber * denom0)
+299:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11634:(numer0 + wholeNumber * denom0) * sign |==> (numer0 + wholeNumber * denom0) % sign
+300:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11634:(numer0 + wholeNumber * denom0) * sign |==> (numer0 + wholeNumber * denom0) + sign
+301:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11634:(numer0 + wholeNumber * denom0) * sign |==> (numer0 + wholeNumber * denom0) - sign
+302:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(double):303:11634:(numer0 + wholeNumber * denom0) * sign |==> (numer0 + wholeNumber * denom0) / sign
+303:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):325:12363:str == null |==> false
+304:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):330:12549:0 |==> 1
+305:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):330:12549:0 |==> -1
+306:ROR:>=(int,int):==(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):330:12542:pos >= 0 |==> pos == 0
+307:ROR:>=(int,int):>(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):330:12542:pos >= 0 |==> pos > 0
+308:ROR:>=(int,int):TRUE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):330:12546:pos >= 0 |==> true
+309:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):335:12660:pos = str.indexOf(' '); |==> <NO-OP>
+310:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):336:12702:0 |==> 1
+311:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):336:12702:0 |==> -1
+312:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):336:12696:pos > 0 |==> pos != 0
+313:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):336:12696:pos > 0 |==> pos >= 0
+314:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):336:12700:pos > 0 |==> false
+315:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):337:12762:0 |==> 1
+316:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):337:12762:0 |==> -1
+317:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):338:12810:1 |==> 0
+318:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):338:12810:1 |==> -1
+319:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):338:12804:pos + 1 |==> pos % 1
+320:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):338:12804:pos + 1 |==> pos * 1
+321:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):338:12804:pos + 1 |==> pos - 1
+322:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):338:12804:pos + 1 |==> pos / 1
+323:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):338:12784:str = str.substring(pos + 1); |==> <NO-OP>
+324:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):339:12826:pos = str.indexOf('/'); |==> <NO-OP>
+325:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):340:12872:0 |==> 1
+326:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):340:12872:0 |==> -1
+327:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):340:12866:pos < 0 |==> pos != 0
+328:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):340:12866:pos < 0 |==> pos <= 0
+329:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):340:12870:pos < 0 |==> false
+330:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):343:13062:0 |==> 1
+331:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):343:13062:0 |==> -1
+332:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):344:13137:1 |==> 0
+333:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):344:13137:1 |==> -1
+334:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):344:13131:pos + 1 |==> pos % 1
+335:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):344:13131:pos + 1 |==> pos * 1
+336:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):344:13131:pos + 1 |==> pos - 1
+337:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):344:13131:pos + 1 |==> pos / 1
+338:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):350:13260:pos = str.indexOf('/'); |==> <NO-OP>
+339:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):351:13302:0 |==> 1
+340:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):351:13302:0 |==> -1
+341:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):351:13296:pos < 0 |==> pos != 0
+342:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):351:13296:pos < 0 |==> pos <= 0
+343:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):351:13300:pos < 0 |==> false
+344:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):353:13396:1 |==> 0
+345:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):353:13396:1 |==> -1
+346:LVR:0:POS:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):355:13472:0 |==> 1
+347:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):355:13472:0 |==> -1
+348:LVR:POS:0:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):356:13543:1 |==> 0
+349:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):356:13543:1 |==> -1
+350:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):356:13537:pos + 1 |==> pos % 1
+351:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):356:13537:pos + 1 |==> pos * 1
+352:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):356:13537:pos + 1 |==> pos - 1
+353:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getFraction(java.lang.String):356:13537:pos + 1 |==> pos / 1
+354:AOR:%(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getProperNumerator():397:14750:numerator % denominator |==> numerator * denominator
+355:AOR:%(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@getProperNumerator():397:14750:numerator % denominator |==> numerator + denominator
+356:AOR:%(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getProperNumerator():397:14750:numerator % denominator |==> numerator - denominator
+357:AOR:%(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@getProperNumerator():397:14750:numerator % denominator |==> numerator / denominator
+358:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@getProperWhole():412:15297:numerator / denominator |==> numerator % denominator
+359:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@getProperWhole():412:15297:numerator / denominator |==> numerator * denominator
+360:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@getProperWhole():412:15297:numerator / denominator |==> numerator + denominator
+361:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@getProperWhole():412:15297:numerator / denominator |==> numerator - denominator
+362:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@intValue():426:15667:numerator / denominator |==> numerator % denominator
+363:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@intValue():426:15667:numerator / denominator |==> numerator * denominator
+364:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@intValue():426:15667:numerator / denominator |==> numerator + denominator
+365:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@intValue():426:15667:numerator / denominator |==> numerator - denominator
+366:AOR:/(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@longValue():437:15942:(long)numerator / denominator |==> (long)numerator % denominator
+367:AOR:/(long,long):*(long,long):org.apache.commons.lang3.math.Fraction@longValue():437:15942:(long)numerator / denominator |==> (long)numerator * denominator
+368:AOR:/(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@longValue():437:15942:(long)numerator / denominator |==> (long)numerator + denominator
+369:AOR:/(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@longValue():437:15942:(long)numerator / denominator |==> (long)numerator - denominator
+370:AOR:/(float,float):%(float,float):org.apache.commons.lang3.math.Fraction@floatValue():448:16251:((float)numerator) / ((float)denominator) |==> ((float)numerator) % ((float)denominator)
+371:AOR:/(float,float):*(float,float):org.apache.commons.lang3.math.Fraction@floatValue():448:16251:((float)numerator) / ((float)denominator) |==> ((float)numerator) * ((float)denominator)
+372:AOR:/(float,float):+(float,float):org.apache.commons.lang3.math.Fraction@floatValue():448:16251:((float)numerator) / ((float)denominator) |==> ((float)numerator) + ((float)denominator)
+373:AOR:/(float,float):-(float,float):org.apache.commons.lang3.math.Fraction@floatValue():448:16251:((float)numerator) / ((float)denominator) |==> ((float)numerator) - ((float)denominator)
+374:AOR:/(double,double):%(double,double):org.apache.commons.lang3.math.Fraction@doubleValue():459:16577:((double)numerator) / ((double)denominator) |==> ((double)numerator) % ((double)denominator)
+375:AOR:/(double,double):*(double,double):org.apache.commons.lang3.math.Fraction@doubleValue():459:16577:((double)numerator) / ((double)denominator) |==> ((double)numerator) * ((double)denominator)
+376:AOR:/(double,double):+(double,double):org.apache.commons.lang3.math.Fraction@doubleValue():459:16577:((double)numerator) / ((double)denominator) |==> ((double)numerator) + ((double)denominator)
+377:AOR:/(double,double):-(double,double):org.apache.commons.lang3.math.Fraction@doubleValue():459:16577:((double)numerator) / ((double)denominator) |==> ((double)numerator) - ((double)denominator)
+378:LVR:0:POS:org.apache.commons.lang3.math.Fraction@reduce():475:17116:0 |==> 1
+379:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@reduce():475:17116:0 |==> -1
+380:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@reduce():475:17103:numerator == 0 |==> numerator <= 0
+381:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@reduce():475:17103:numerator == 0 |==> numerator >= 0
+382:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@reduce():475:17113:numerator == 0 |==> false
+383:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.math.Fraction@reduce():476:17146:equals(ZERO) |==> false
+384:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.math.Fraction@reduce():476:17146:equals(ZERO) |==> true
+385:LVR:POS:0:org.apache.commons.lang3.math.Fraction@reduce():479:17272:1 |==> 0
+386:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@reduce():479:17272:1 |==> -1
+387:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@reduce():479:17265:gcd == 1 |==> gcd <= 1
+388:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@reduce():479:17265:gcd == 1 |==> gcd >= 1
+389:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@reduce():479:17269:gcd == 1 |==> false
+390:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17348:numerator / gcd |==> numerator % gcd
+391:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17348:numerator / gcd |==> numerator * gcd
+392:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17348:numerator / gcd |==> numerator + gcd
+393:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17348:numerator / gcd |==> numerator - gcd
+394:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17365:denominator / gcd |==> denominator % gcd
+395:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17365:denominator / gcd |==> denominator * gcd
+396:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17365:denominator / gcd |==> denominator + gcd
+397:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@reduce():482:17365:denominator / gcd |==> denominator - gcd
+398:LVR:0:POS:org.apache.commons.lang3.math.Fraction@invert():495:17774:0 |==> 1
+399:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@invert():495:17774:0 |==> -1
+400:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@invert():495:17761:numerator == 0 |==> numerator <= 0
+401:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@invert():495:17761:numerator == 0 |==> numerator >= 0
+402:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@invert():495:17771:numerator == 0 |==> false
+403:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@invert():498:17870:numerator == Integer.MIN_VALUE |==> numerator >= Integer.MIN_VALUE
+404:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@invert():498:17879:numerator == Integer.MIN_VALUE |==> false
+405:LVR:0:POS:org.apache.commons.lang3.math.Fraction@invert():501:18013:0 |==> 1
+406:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@invert():501:18013:0 |==> -1
+407:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@invert():501:18003:numerator < 0 |==> numerator != 0
+408:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@invert():501:18003:numerator < 0 |==> numerator <= 0
+409:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@invert():501:18012:numerator < 0 |==> false
+410:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@invert():502:18050:-denominator |==> +denominator
+411:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@invert():502:18050:-denominator |==> ~denominator
+412:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@invert():502:18064:-numerator |==> +numerator
+413:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@invert():502:18064:-numerator |==> ~numerator
+414:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@negate():517:18523:numerator == Integer.MIN_VALUE |==> numerator >= Integer.MIN_VALUE
+415:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@negate():517:18532:numerator == Integer.MIN_VALUE |==> false
+416:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@negate():520:18669:-numerator |==> +numerator
+417:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@negate():520:18669:-numerator |==> ~numerator
+418:LVR:0:POS:org.apache.commons.lang3.math.Fraction@abs():533:19121:0 |==> 1
+419:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@abs():533:19121:0 |==> -1
+420:ROR:>=(int,int):==(int,int):org.apache.commons.lang3.math.Fraction@abs():533:19108:numerator >= 0 |==> numerator == 0
+421:ROR:>=(int,int):>(int,int):org.apache.commons.lang3.math.Fraction@abs():533:19108:numerator >= 0 |==> numerator > 0
+422:ROR:>=(int,int):TRUE(int,int):org.apache.commons.lang3.math.Fraction@abs():533:19118:numerator >= 0 |==> true
+423:LVR:POS:0:org.apache.commons.lang3.math.Fraction@pow(int):552:19787:1 |==> 0
+424:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@pow(int):552:19787:1 |==> -1
+425:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):552:19778:power == 1 |==> power <= 1
+426:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):552:19778:power == 1 |==> power >= 1
+427:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@pow(int):552:19784:power == 1 |==> false
+428:LVR:0:POS:org.apache.commons.lang3.math.Fraction@pow(int):554:19845:0 |==> 1
+429:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@pow(int):554:19845:0 |==> -1
+430:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):554:19836:power == 0 |==> power <= 0
+431:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):554:19836:power == 0 |==> power >= 0
+432:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@pow(int):554:19842:power == 0 |==> false
+433:LVR:0:POS:org.apache.commons.lang3.math.Fraction@pow(int):556:19901:0 |==> 1
+434:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@pow(int):556:19901:0 |==> -1
+435:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):556:19893:power < 0 |==> power != 0
+436:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):556:19893:power < 0 |==> power <= 0
+437:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@pow(int):556:19899:power < 0 |==> false
+438:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):557:19922:power == Integer.MIN_VALUE |==> power >= Integer.MIN_VALUE
+439:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@pow(int):557:19927:power == Integer.MIN_VALUE |==> false
+440:LVR:POS:0:org.apache.commons.lang3.math.Fraction@pow(int):558:20022:2 |==> 0
+441:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@pow(int):558:20022:2 |==> -2
+442:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@pow(int):558:20029:-(power / 2) |==> +(power / 2)
+443:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@pow(int):558:20029:-(power / 2) |==> ~(power / 2)
+444:LVR:POS:0:org.apache.commons.lang3.math.Fraction@pow(int):558:20037:2 |==> 0
+445:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@pow(int):558:20037:2 |==> -2
+446:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@pow(int):558:20031:power / 2 |==> power % 2
+447:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@pow(int):558:20031:power / 2 |==> power * 2
+448:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@pow(int):558:20031:power / 2 |==> power + 2
+449:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@pow(int):558:20031:power / 2 |==> power - 2
+450:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@pow(int):560:20093:-power |==> +power
+451:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@pow(int):560:20093:-power |==> ~power
+452:LVR:POS:0:org.apache.commons.lang3.math.Fraction@pow(int):563:20192:2 |==> 0
+453:AOR:%(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@pow(int):563:20184:power % 2 |==> power * 2
+454:AOR:%(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@pow(int):563:20184:power % 2 |==> power + 2
+455:AOR:%(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@pow(int):563:20184:power % 2 |==> power - 2
+456:AOR:%(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@pow(int):563:20184:power % 2 |==> power / 2
+457:LVR:0:POS:org.apache.commons.lang3.math.Fraction@pow(int):563:20198:0 |==> 1
+458:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@pow(int):563:20198:0 |==> -1
+459:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):563:20183:(power % 2) == 0 |==> (power % 2) <= 0
+460:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@pow(int):563:20183:(power % 2) == 0 |==> (power % 2) >= 0
+461:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@pow(int):563:20195:(power % 2) == 0 |==> false
+462:LVR:POS:0:org.apache.commons.lang3.math.Fraction@pow(int):564:20252:2 |==> 0
+463:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@pow(int):564:20252:2 |==> -2
+464:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@pow(int):564:20246:power / 2 |==> power % 2
+465:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@pow(int):564:20246:power / 2 |==> power * 2
+466:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@pow(int):564:20246:power / 2 |==> power + 2
+467:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@pow(int):564:20246:power / 2 |==> power - 2
+468:LVR:POS:0:org.apache.commons.lang3.math.Fraction@pow(int):566:20325:2 |==> 0
+469:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@pow(int):566:20325:2 |==> -2
+470:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@pow(int):566:20319:power / 2 |==> power % 2
+471:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@pow(int):566:20319:power / 2 |==> power * 2
+472:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@pow(int):566:20319:power / 2 |==> power + 2
+473:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@pow(int):566:20319:power / 2 |==> power - 2
+474:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20890:0 |==> 1
+475:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20890:0 |==> -1
+476:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20885:u == 0 |==> u <= 0
+477:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20885:u == 0 |==> u >= 0
+478:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20887:u == 0 |==> false
+479:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20902:0 |==> 1
+480:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20902:0 |==> -1
+481:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20897:v == 0 |==> v <= 0
+482:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20897:v == 0 |==> v >= 0
+483:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20899:v == 0 |==> false
+484:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20884:(u == 0) || (v == 0) |==> (u == 0) != (v == 0)
+485:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20884:(u == 0) || (v == 0) |==> (u == 0)
+486:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20896:(u == 0) || (v == 0) |==> (v == 0)
+487:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):583:20893:(u == 0) || (v == 0) |==> true
+488:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20925:u == Integer.MIN_VALUE |==> u >= Integer.MIN_VALUE
+489:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20927:u == Integer.MIN_VALUE |==> false
+490:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20953:v == Integer.MIN_VALUE |==> v >= Integer.MIN_VALUE
+491:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20955:v == Integer.MIN_VALUE |==> false
+492:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20924:(u == Integer.MIN_VALUE) || (v == Integer.MIN_VALUE) |==> (u == Integer.MIN_VALUE) != (v == Integer.MIN_VALUE)
+493:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20924:(u == Integer.MIN_VALUE) || (v == Integer.MIN_VALUE) |==> (u == Integer.MIN_VALUE)
+494:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20952:(u == Integer.MIN_VALUE) || (v == Integer.MIN_VALUE) |==> (v == Integer.MIN_VALUE)
+495:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):584:20949:(u == Integer.MIN_VALUE) || (v == Integer.MIN_VALUE) |==> true
+496:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):587:21085:Math.abs(u) + Math.abs(v) |==> Math.abs(u) % Math.abs(v)
+497:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):587:21085:Math.abs(u) + Math.abs(v) |==> Math.abs(u) * Math.abs(v)
+498:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):587:21085:Math.abs(u) + Math.abs(v) |==> Math.abs(u) - Math.abs(v)
+499:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):587:21085:Math.abs(u) + Math.abs(v) |==> Math.abs(u) / Math.abs(v)
+500:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21197:1 |==> 0
+501:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21197:1 |==> -1
+502:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21182:Math.abs(u) == 1 |==> Math.abs(u) <= 1
+503:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21182:Math.abs(u) == 1 |==> Math.abs(u) >= 1
+504:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21194:Math.abs(u) == 1 |==> false
+505:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21217:1 |==> 0
+506:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21217:1 |==> -1
+507:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21202:Math.abs(v) == 1 |==> Math.abs(v) <= 1
+508:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21202:Math.abs(v) == 1 |==> Math.abs(v) >= 1
+509:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21214:Math.abs(v) == 1 |==> false
+510:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21182:Math.abs(u) == 1 || Math.abs(v) == 1 |==> Math.abs(u) == 1 != (Math.abs(v) == 1)
+511:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21182:Math.abs(u) == 1 || Math.abs(v) == 1 |==> Math.abs(u) == 1
+512:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21202:Math.abs(u) == 1 || Math.abs(v) == 1 |==> Math.abs(v) == 1
+513:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):590:21199:Math.abs(u) == 1 || Math.abs(v) == 1 |==> true
+514:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):591:21241:1 |==> 0
+515:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):591:21241:1 |==> -1
+516:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21501:0 |==> 1
+517:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21501:0 |==> -1
+518:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21499:u > 0 |==> u != 0
+519:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21499:u > 0 |==> u >= 0
+520:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21500:u > 0 |==> false
+521:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21508:-u |==> +u
+522:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21508:-u |==> ~u
+523:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):597:21506:u = -u; |==> <NO-OP>
+524:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21547:0 |==> 1
+525:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21547:0 |==> -1
+526:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21545:v > 0 |==> v != 0
+527:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21545:v > 0 |==> v >= 0
+528:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21546:v > 0 |==> false
+529:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21554:-v |==> +v
+530:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21554:-v |==> ~v
+531:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):598:21552:v = -v; |==> <NO-OP>
+532:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):600:21626:0 |==> 1
+533:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):600:21626:0 |==> -1
+534:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21647:1 |==> 0
+535:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21647:1 |==> -1
+536:LOR:&(int,int):^(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21645:u & 1 |==> u ^ 1
+537:LOR:&(int,int):|(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21645:u & 1 |==> u | 1
+538:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21651:0 |==> 1
+539:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21651:0 |==> -1
+540:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21644:(u & 1) == 0 |==> (u & 1) <= 0
+541:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21644:(u & 1) == 0 |==> (u & 1) >= 0
+542:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21649:(u & 1) == 0 |==> false
+543:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21659:1 |==> 0
+544:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21659:1 |==> -1
+545:LOR:&(int,int):^(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21657:v & 1 |==> v ^ 1
+546:LOR:&(int,int):|(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21657:v & 1 |==> v | 1
+547:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21663:0 |==> 1
+548:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21663:0 |==> -1
+549:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21656:(v & 1) == 0 |==> (v & 1) <= 0
+550:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21656:(v & 1) == 0 |==> (v & 1) >= 0
+551:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21661:(v & 1) == 0 |==> false
+552:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21644:(u & 1) == 0 && (v & 1) == 0 |==> (u & 1) == 0 == ((v & 1) == 0)
+553:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21653:(u & 1) == 0 && (v & 1) == 0 |==> false
+554:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21644:(u & 1) == 0 && (v & 1) == 0 |==> (u & 1) == 0
+555:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21656:(u & 1) == 0 && (v & 1) == 0 |==> (v & 1) == 0
+556:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21670:31 |==> 0
+557:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21670:31 |==> -31
+558:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21668:k < 31 |==> k != 31
+559:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21668:k < 31 |==> k <= 31
+560:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21669:k < 31 |==> false
+561:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21644:(u & 1) == 0 && (v & 1) == 0 && k < 31 |==> ((u & 1) == 0 && (v & 1) == 0) == k < 31
+562:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21665:(u & 1) == 0 && (v & 1) == 0 && k < 31 |==> false
+563:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21644:(u & 1) == 0 && (v & 1) == 0 && k < 31 |==> (u & 1) == 0 && (v & 1) == 0
+564:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):601:21668:(u & 1) == 0 && (v & 1) == 0 && k < 31 |==> k < 31
+565:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):602:21725:2 |==> 0
+566:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):602:21725:2 |==> -2
+567:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):602:21722:u /= 2; |==> <NO-OP>
+568:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):602:21731:2 |==> 0
+569:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):602:21731:2 |==> -2
+570:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):602:21728:v /= 2; |==> <NO-OP>
+571:STD:<INC>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):602:21734:k++; |==> <NO-OP>
+572:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):604:21782:31 |==> 0
+573:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):604:21782:31 |==> -31
+574:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):604:21779:k == 31 |==> k <= 31
+575:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):604:21779:k == 31 |==> k >= 31
+576:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):604:21780:k == 31 |==> false
+577:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21986:1 |==> 0
+578:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21986:1 |==> -1
+579:LOR:&(int,int):^(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21984:u & 1 |==> u ^ 1
+580:LOR:&(int,int):|(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21984:u & 1 |==> u | 1
+581:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21990:1 |==> 0
+582:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21990:1 |==> -1
+583:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21983:(u & 1) == 1 |==> (u & 1) <= 1
+584:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21983:(u & 1) == 1 |==> (u & 1) >= 1
+585:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21988:(u & 1) == 1 |==> false
+586:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21999:-(u / 2) |==> +(u / 2)
+587:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:21999:-(u / 2) |==> ~(u / 2)
+588:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:22003:2 |==> 0
+589:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:22003:2 |==> -2
+590:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:22001:u / 2 |==> u % 2
+591:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:22001:u / 2 |==> u * 2
+592:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:22001:u / 2 |==> u + 2
+593:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):609:22001:u / 2 |==> u - 2
+594:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22251:1 |==> 0
+595:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22251:1 |==> -1
+596:LOR:&(int,int):^(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22249:t & 1 |==> t ^ 1
+597:LOR:&(int,int):|(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22249:t & 1 |==> t | 1
+598:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22255:0 |==> 1
+599:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22255:0 |==> -1
+600:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22248:(t & 1) == 0 |==> (t & 1) <= 0
+601:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22248:(t & 1) == 0 |==> (t & 1) >= 0
+602:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):615:22253:(t & 1) == 0 |==> false
+603:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):616:22300:2 |==> 0
+604:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):616:22300:2 |==> -2
+605:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):616:22297:t /= 2; |==> <NO-OP>
+606:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):619:22387:0 |==> 1
+607:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):619:22387:0 |==> -1
+608:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):619:22385:t > 0 |==> t != 0
+609:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):619:22385:t > 0 |==> t >= 0
+610:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):619:22386:t > 0 |==> false
+611:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):620:22412:-t |==> +t
+612:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):620:22412:-t |==> ~t
+613:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):620:22408:u = -t; |==> <NO-OP>
+614:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):622:22453:v = t; |==> <NO-OP>
+615:AOR:-(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22555:v - u |==> v % u
+616:AOR:-(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22555:v - u |==> v * u
+617:AOR:-(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22555:v - u |==> v + u
+618:AOR:-(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22555:v - u |==> v / u
+619:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22562:2 |==> 0
+620:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22562:2 |==> -2
+621:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22554:(v - u) / 2 |==> (v - u) % 2
+622:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22554:(v - u) / 2 |==> (v - u) * 2
+623:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22554:(v - u) / 2 |==> (v - u) + 2
+624:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22554:(v - u) / 2 |==> (v - u) - 2
+625:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):625:22550:t = (v - u) / 2; |==> <NO-OP>
+626:LVR:0:POS:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):628:22685:0 |==> 1
+627:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):628:22685:0 |==> -1
+628:ROR:!=(int,int):<(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):628:22682:t != 0 |==> t < 0
+629:ROR:!=(int,int):>(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):628:22682:t != 0 |==> t > 0
+630:ROR:!=(int,int):TRUE(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):628:22683:t != 0 |==> true
+631:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22704:-u |==> +u
+632:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22704:-u |==> ~u
+633:LVR:POS:0:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22708:1 |==> 0
+634:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22708:1 |==> -1
+635:SOR:<<(int,int):>>(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22708:1 << k |==> 1 >> k
+636:SOR:<<(int,int):>>>(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22708:1 << k |==> 1 >>> k
+637:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22704:-u * (1 << k) |==> -u % (1 << k)
+638:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22704:-u * (1 << k) |==> -u + (1 << k)
+639:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22704:-u * (1 << k) |==> -u - (1 << k)
+640:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@greatestCommonDivisor(int,int):629:22704:-u * (1 << k) |==> -u / (1 << k)
+641:AOR:*(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):645:23188:((long)x) * ((long)y) |==> ((long)x) % ((long)y)
+642:AOR:*(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):645:23188:((long)x) * ((long)y) |==> ((long)x) + ((long)y)
+643:AOR:*(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):645:23188:((long)x) * ((long)y) |==> ((long)x) - ((long)y)
+644:AOR:*(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):645:23188:((long)x) * ((long)y) |==> ((long)x) / ((long)y)
+645:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):646:23221:m < Integer.MIN_VALUE |==> m != Integer.MIN_VALUE
+646:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):646:23221:m < Integer.MIN_VALUE |==> m <= Integer.MIN_VALUE
+647:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):646:23223:m < Integer.MIN_VALUE |==> false
+648:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):647:23258:m > Integer.MAX_VALUE |==> m != Integer.MAX_VALUE
+649:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):647:23258:m > Integer.MAX_VALUE |==> m >= Integer.MAX_VALUE
+650:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):647:23260:m > Integer.MAX_VALUE |==> false
+651:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):646:23221:m < Integer.MIN_VALUE || m > Integer.MAX_VALUE |==> m < Integer.MIN_VALUE
+652:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):647:23258:m < Integer.MIN_VALUE || m > Integer.MAX_VALUE |==> m > Integer.MAX_VALUE
+653:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@mulAndCheck(int,int):646:23243:m < Integer.MIN_VALUE || m > Integer.MAX_VALUE |==> true
+654:AOR:*(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@mulPosAndCheck(int,int):664:23793:((long)x) * ((long)y) |==> ((long)x) % ((long)y)
+655:AOR:*(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@mulPosAndCheck(int,int):664:23793:((long)x) * ((long)y) |==> ((long)x) + ((long)y)
+656:AOR:*(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@mulPosAndCheck(int,int):664:23793:((long)x) * ((long)y) |==> ((long)x) - ((long)y)
+657:AOR:*(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@mulPosAndCheck(int,int):664:23793:((long)x) * ((long)y) |==> ((long)x) / ((long)y)
+658:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@mulPosAndCheck(int,int):665:23826:m > Integer.MAX_VALUE |==> m != Integer.MAX_VALUE
+659:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.Fraction@mulPosAndCheck(int,int):665:23826:m > Integer.MAX_VALUE |==> m >= Integer.MAX_VALUE
+660:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@mulPosAndCheck(int,int):665:23828:m > Integer.MAX_VALUE |==> false
+661:AOR:+(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):681:24280:(long)x + (long)y |==> (long)x % (long)y
+662:AOR:+(long,long):*(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):681:24280:(long)x + (long)y |==> (long)x * (long)y
+663:AOR:+(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):681:24280:(long)x + (long)y |==> (long)x - (long)y
+664:AOR:+(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):681:24280:(long)x + (long)y |==> (long)x / (long)y
+665:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):682:24309:s < Integer.MIN_VALUE |==> s != Integer.MIN_VALUE
+666:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):682:24309:s < Integer.MIN_VALUE |==> s <= Integer.MIN_VALUE
+667:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):682:24311:s < Integer.MIN_VALUE |==> false
+668:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):683:24346:s > Integer.MAX_VALUE |==> s != Integer.MAX_VALUE
+669:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):683:24346:s > Integer.MAX_VALUE |==> s >= Integer.MAX_VALUE
+670:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):683:24348:s > Integer.MAX_VALUE |==> false
+671:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):682:24309:s < Integer.MIN_VALUE || s > Integer.MAX_VALUE |==> s < Integer.MIN_VALUE
+672:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):683:24346:s < Integer.MIN_VALUE || s > Integer.MAX_VALUE |==> s > Integer.MAX_VALUE
+673:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@addAndCheck(int,int):682:24331:s < Integer.MIN_VALUE || s > Integer.MAX_VALUE |==> true
+674:AOR:-(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):699:24816:(long)x - (long)y |==> (long)x % (long)y
+675:AOR:-(long,long):*(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):699:24816:(long)x - (long)y |==> (long)x * (long)y
+676:AOR:-(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):699:24816:(long)x - (long)y |==> (long)x + (long)y
+677:AOR:-(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):699:24816:(long)x - (long)y |==> (long)x / (long)y
+678:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):700:24845:s < Integer.MIN_VALUE |==> s != Integer.MIN_VALUE
+679:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):700:24845:s < Integer.MIN_VALUE |==> s <= Integer.MIN_VALUE
+680:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):700:24847:s < Integer.MIN_VALUE |==> false
+681:ROR:>(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):701:24882:s > Integer.MAX_VALUE |==> s != Integer.MAX_VALUE
+682:ROR:>(long,long):>=(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):701:24882:s > Integer.MAX_VALUE |==> s >= Integer.MAX_VALUE
+683:ROR:>(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):701:24884:s > Integer.MAX_VALUE |==> false
+684:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):700:24845:s < Integer.MIN_VALUE || s > Integer.MAX_VALUE |==> s < Integer.MIN_VALUE
+685:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):701:24882:s < Integer.MIN_VALUE || s > Integer.MAX_VALUE |==> s > Integer.MAX_VALUE
+686:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@subAndCheck(int,int):700:24867:s < Integer.MIN_VALUE || s > Integer.MAX_VALUE |==> true
+687:LVR:TRUE:FALSE:org.apache.commons.lang3.math.Fraction@add(org.apache.commons.lang3.math.Fraction):718:25600:true |==> false
+688:LVR:FALSE:TRUE:org.apache.commons.lang3.math.Fraction@subtract(org.apache.commons.lang3.math.Fraction):732:26220:false |==> true
+689:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):746:26849:fraction == null |==> false
+690:LVR:0:POS:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):750:27018:0 |==> 1
+691:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):750:27018:0 |==> -1
+692:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):750:27005:numerator == 0 |==> numerator <= 0
+693:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):750:27005:numerator == 0 |==> numerator >= 0
+694:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):750:27015:numerator == 0 |==> false
+695:COR:<IDENTIFIER(boolean)>:FALSE:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):751:27042:isAdd |==> false
+696:COR:<IDENTIFIER(boolean)>:TRUE:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):751:27042:isAdd |==> true
+697:LVR:0:POS:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):753:27124:0 |==> 1
+698:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):753:27124:0 |==> -1
+699:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):753:27102:fraction.numerator == 0 |==> fraction.numerator <= 0
+700:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):753:27102:fraction.numerator == 0 |==> fraction.numerator >= 0
+701:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):753:27121:fraction.numerator == 0 |==> false
+702:LVR:POS:0:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):759:27360:1 |==> 0
+703:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):759:27360:1 |==> -1
+704:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):759:27356:d1 == 1 |==> d1 <= 1
+705:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):759:27356:d1 == 1 |==> d1 >= 1
+706:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):759:27358:d1 == 1 |==> false
+707:COR:<IDENTIFIER(boolean)>:FALSE:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):764:27600:isAdd |==> false
+708:COR:<IDENTIFIER(boolean)>:TRUE:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):764:27600:isAdd |==> true
+709:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):771:27999:fraction.denominator / d1 |==> fraction.denominator % d1
+710:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):771:27999:fraction.denominator / d1 |==> fraction.denominator * d1
+711:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):771:27999:fraction.denominator / d1 |==> fraction.denominator + d1
+712:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):771:27999:fraction.denominator / d1 |==> fraction.denominator - d1
+713:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):773:28131:denominator / d1 |==> denominator % d1
+714:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):773:28131:denominator / d1 |==> denominator * d1
+715:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):773:28131:denominator / d1 |==> denominator + d1
+716:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):773:28131:denominator / d1 |==> denominator - d1
+717:COR:<IDENTIFIER(boolean)>:FALSE:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):774:28172:isAdd |==> false
+718:COR:<IDENTIFIER(boolean)>:TRUE:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):774:28172:isAdd |==> true
+719:LVR:0:POS:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):778:28404:0 |==> 1
+720:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):778:28404:0 |==> -1
+721:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):778:28396:tmodd1 == 0 |==> tmodd1 <= 0
+722:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):778:28396:tmodd1 == 0 |==> tmodd1 >= 0
+723:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):778:28402:tmodd1 == 0 |==> false
+724:LVR:POS:0:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):782:28576:31 |==> 0
+725:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):782:28576:31 |==> -31
+726:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):782:28560:w.bitLength() > 31 |==> w.bitLength() != 31
+727:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):782:28560:w.bitLength() > 31 |==> w.bitLength() >= 31
+728:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):782:28574:w.bitLength() > 31 |==> false
+729:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28783:denominator / d1 |==> denominator % d1
+730:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28783:denominator / d1 |==> denominator * d1
+731:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28783:denominator / d1 |==> denominator + d1
+732:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28783:denominator / d1 |==> denominator - d1
+733:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28799:fraction.denominator / d2 |==> fraction.denominator % d2
+734:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28799:fraction.denominator / d2 |==> fraction.denominator * d2
+735:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28799:fraction.denominator / d2 |==> fraction.denominator + d2
+736:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@addSub(org.apache.commons.lang3.math.Fraction,boolean):788:28799:fraction.denominator / d2 |==> fraction.denominator - d2
+737:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):802:29397:fraction == null |==> false
+738:LVR:0:POS:org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29524:0 |==> 1
+739:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29524:0 |==> -1
+740:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29511:numerator == 0 |==> numerator <= 0
+741:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29511:numerator == 0 |==> numerator >= 0
+742:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29521:numerator == 0 |==> false
+743:LVR:0:POS:org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29551:0 |==> 1
+744:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29551:0 |==> -1
+745:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29529:fraction.numerator == 0 |==> fraction.numerator <= 0
+746:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29529:fraction.numerator == 0 |==> fraction.numerator >= 0
+747:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29548:fraction.numerator == 0 |==> false
+748:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29511:numerator == 0 || fraction.numerator == 0 |==> numerator == 0 != (fraction.numerator == 0)
+749:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29511:numerator == 0 || fraction.numerator == 0 |==> numerator == 0
+750:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29529:numerator == 0 || fraction.numerator == 0 |==> fraction.numerator == 0
+751:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):805:29526:numerator == 0 || fraction.numerator == 0 |==> true
+752:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29893:numerator / d1 |==> numerator % d1
+753:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29893:numerator / d1 |==> numerator * d1
+754:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29893:numerator / d1 |==> numerator + d1
+755:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29893:numerator / d1 |==> numerator - d1
+756:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29907:fraction.numerator / d2 |==> fraction.numerator % d2
+757:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29907:fraction.numerator / d2 |==> fraction.numerator * d2
+758:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29907:fraction.numerator / d2 |==> fraction.numerator + d2
+759:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):813:29907:fraction.numerator / d2 |==> fraction.numerator - d2
+760:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29959:denominator / d2 |==> denominator % d2
+761:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29959:denominator / d2 |==> denominator * d2
+762:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29959:denominator / d2 |==> denominator + d2
+763:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29959:denominator / d2 |==> denominator - d2
+764:AOR:/(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29975:fraction.denominator / d1 |==> fraction.denominator % d1
+765:AOR:/(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29975:fraction.denominator / d1 |==> fraction.denominator * d1
+766:AOR:/(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29975:fraction.denominator / d1 |==> fraction.denominator + d1
+767:AOR:/(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@multiplyBy(org.apache.commons.lang3.math.Fraction):814:29975:fraction.denominator / d1 |==> fraction.denominator - d1
+768:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.Fraction@divideBy(org.apache.commons.lang3.math.Fraction):828:30591:fraction == null |==> false
+769:LVR:0:POS:org.apache.commons.lang3.math.Fraction@divideBy(org.apache.commons.lang3.math.Fraction):831:30727:0 |==> 1
+770:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@divideBy(org.apache.commons.lang3.math.Fraction):831:30727:0 |==> -1
+771:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@divideBy(org.apache.commons.lang3.math.Fraction):831:30705:fraction.numerator == 0 |==> fraction.numerator <= 0
+772:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@divideBy(org.apache.commons.lang3.math.Fraction):831:30705:fraction.numerator == 0 |==> fraction.numerator >= 0
+773:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@divideBy(org.apache.commons.lang3.math.Fraction):831:30724:fraction.numerator == 0 |==> false
+774:LVR:TRUE:FALSE:org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):851:31388:true |==> false
+775:LVR:FALSE:TRUE:org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):853:31443:false |==> true
+776:ROR:==(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):853:31440:obj instanceof Fraction == false |==> false
+777:ROR:==(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):853:31416:obj instanceof Fraction == false |==> obj instanceof Fraction
+778:ROR:==(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):853:31443:obj instanceof Fraction == false |==> false
+779:LVR:FALSE:TRUE:org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):854:31471:false |==> true
+780:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):857:31545:getNumerator() == other.getNumerator() |==> getNumerator() <= other.getNumerator()
+781:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):857:31545:getNumerator() == other.getNumerator() |==> getNumerator() >= other.getNumerator()
+782:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):857:31560:getNumerator() == other.getNumerator() |==> false
+783:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):858:31603:getDenominator() == other.getDenominator() |==> getDenominator() <= other.getDenominator()
+784:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):858:31603:getDenominator() == other.getDenominator() |==> getDenominator() >= other.getDenominator()
+785:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):858:31620:getDenominator() == other.getDenominator() |==> false
+786:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):857:31545:getNumerator() == other.getNumerator() && getDenominator() == other.getDenominator() |==> getNumerator() == other.getNumerator() == (getDenominator() == other.getDenominator())
+787:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):857:31584:getNumerator() == other.getNumerator() && getDenominator() == other.getDenominator() |==> false
+788:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):857:31545:getNumerator() == other.getNumerator() && getDenominator() == other.getDenominator() |==> getNumerator() == other.getNumerator()
+789:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@equals(java.lang.Object):858:31603:getNumerator() == other.getNumerator() && getDenominator() == other.getDenominator() |==> getDenominator() == other.getDenominator()
+790:LVR:0:POS:org.apache.commons.lang3.math.Fraction@hashCode():868:31841:0 |==> 1
+791:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@hashCode():868:31841:0 |==> -1
+792:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@hashCode():868:31829:hashCode == 0 |==> hashCode <= 0
+793:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@hashCode():868:31829:hashCode == 0 |==> hashCode >= 0
+794:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@hashCode():868:31838:hashCode == 0 |==> false
+795:LVR:POS:0:org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 |==> 0
+796:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 |==> -37
+797:LVR:POS:0:org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 |==> 0
+798:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 |==> -37
+799:LVR:POS:0:org.apache.commons.lang3.math.Fraction@hashCode():870:31929:17 |==> 0
+800:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@hashCode():870:31929:17 |==> -17
+801:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 |==> 37 % 17
+802:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 |==> 37 + 17
+803:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 |==> 37 - 17
+804:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 |==> 37 / 17
+805:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 + getNumerator() |==> 37 * 17 % getNumerator()
+806:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 + getNumerator() |==> 37 * 17 * getNumerator()
+807:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 + getNumerator() |==> 37 * 17 - getNumerator()
+808:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31924:37 * 17 + getNumerator() |==> 37 * 17 / getNumerator()
+809:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) |==> 37 % (37 * 17 + getNumerator())
+810:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) |==> 37 + (37 * 17 + getNumerator())
+811:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) |==> 37 - (37 * 17 + getNumerator())
+812:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) |==> 37 / (37 * 17 + getNumerator())
+813:AOR:+(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) + getDenominator() |==> 37 * (37 * 17 + getNumerator()) % getDenominator()
+814:AOR:+(int,int):*(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) + getDenominator() |==> 37 * (37 * 17 + getNumerator()) * getDenominator()
+815:AOR:+(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) + getDenominator() |==> 37 * (37 * 17 + getNumerator()) - getDenominator()
+816:AOR:+(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@hashCode():870:31918:37 * (37 * 17 + getNumerator()) + getDenominator() |==> 37 * (37 * 17 + getNumerator()) / getDenominator()
+817:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@hashCode():870:31907:hashCode = 37 * (37 * 17 + getNumerator()) + getDenominator(); |==> <NO-OP>
+818:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):888:32619:this == other |==> false
+819:LVR:0:POS:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):889:32649:0 |==> 1
+820:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):889:32649:0 |==> -1
+821:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32674:numerator == other.numerator |==> numerator <= other.numerator
+822:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32674:numerator == other.numerator |==> numerator >= other.numerator
+823:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32684:numerator == other.numerator |==> false
+824:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32706:denominator == other.denominator |==> denominator <= other.denominator
+825:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32706:denominator == other.denominator |==> denominator >= other.denominator
+826:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32718:denominator == other.denominator |==> false
+827:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32674:numerator == other.numerator && denominator == other.denominator |==> numerator == other.numerator == (denominator == other.denominator)
+828:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32703:numerator == other.numerator && denominator == other.denominator |==> false
+829:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32674:numerator == other.numerator && denominator == other.denominator |==> numerator == other.numerator
+830:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):891:32706:numerator == other.numerator && denominator == other.denominator |==> denominator == other.denominator
+831:LVR:0:POS:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):892:32761:0 |==> 1
+832:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):892:32761:0 |==> -1
+833:AOR:*(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):896:32835:(long)numerator * (long)other.denominator |==> (long)numerator % (long)other.denominator
+834:AOR:*(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):896:32835:(long)numerator * (long)other.denominator |==> (long)numerator + (long)other.denominator
+835:AOR:*(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):896:32835:(long)numerator * (long)other.denominator |==> (long)numerator - (long)other.denominator
+836:AOR:*(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):896:32835:(long)numerator * (long)other.denominator |==> (long)numerator / (long)other.denominator
+837:AOR:*(long,long):%(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):897:32902:(long)other.numerator * (long)denominator |==> (long)other.numerator % (long)denominator
+838:AOR:*(long,long):+(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):897:32902:(long)other.numerator * (long)denominator |==> (long)other.numerator + (long)denominator
+839:AOR:*(long,long):-(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):897:32902:(long)other.numerator * (long)denominator |==> (long)other.numerator - (long)denominator
+840:AOR:*(long,long):/(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):897:32902:(long)other.numerator * (long)denominator |==> (long)other.numerator / (long)denominator
+841:ROR:==(long,long):<=(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):898:32959:first == second |==> first <= second
+842:ROR:==(long,long):>=(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):898:32959:first == second |==> first >= second
+843:ROR:==(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):898:32965:first == second |==> false
+844:LVR:0:POS:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):899:32997:0 |==> 1
+845:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):899:32997:0 |==> -1
+846:ROR:<(long,long):!=(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):900:33019:first < second |==> first != second
+847:ROR:<(long,long):<=(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):900:33019:first < second |==> first <= second
+848:ROR:<(long,long):FALSE(long,long):org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):900:33025:first < second |==> false
+849:LVR:NEG:0:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):901:33056:-1 |==> 0
+850:LVR:NEG:POS:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):901:33056:-1 |==> 1
+851:LVR:POS:0:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):903:33096:1 |==> 0
+852:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@compareTo(org.apache.commons.lang3.math.Fraction):903:33096:1 |==> -1
+853:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.Fraction@toString():916:33403:toString == null |==> false
+854:LVR:POS:0:org.apache.commons.lang3.math.Fraction@toString():917:33455:32 |==> 0
+855:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@toString():917:33455:32 |==> -32
+856:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@toString():917:33426:toString = new StringBuilder(32).append(getNumerator()).append('/').append(getDenominator()).toString(); |==> <NO-OP>
+857:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.math.Fraction@toProperString():935:34076:toProperString == null |==> false
+858:LVR:0:POS:org.apache.commons.lang3.math.Fraction@toProperString():936:34116:0 |==> 1
+859:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@toProperString():936:34116:0 |==> -1
+860:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():936:34103:numerator == 0 |==> numerator <= 0
+861:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():936:34103:numerator == 0 |==> numerator >= 0
+862:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@toProperString():936:34113:numerator == 0 |==> false
+863:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@toProperString():937:34137:toProperString = "0"; |==> <NO-OP>
+864:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():938:34182:numerator == denominator |==> numerator <= denominator
+865:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():938:34182:numerator == denominator |==> numerator >= denominator
+866:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@toProperString():938:34192:numerator == denominator |==> false
+867:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@toProperString():939:34226:toProperString = "1"; |==> <NO-OP>
+868:LVR:NEG:0:org.apache.commons.lang3.math.Fraction@toProperString():940:34284:-1 |==> 0
+869:LVR:NEG:POS:org.apache.commons.lang3.math.Fraction@toProperString():940:34284:-1 |==> 1
+870:AOR:*(int,int):%(int,int):org.apache.commons.lang3.math.Fraction@toProperString():940:34284:-1 * denominator |==> -1 % denominator
+871:AOR:*(int,int):+(int,int):org.apache.commons.lang3.math.Fraction@toProperString():940:34284:-1 * denominator |==> -1 + denominator
+872:AOR:*(int,int):-(int,int):org.apache.commons.lang3.math.Fraction@toProperString():940:34284:-1 * denominator |==> -1 - denominator
+873:AOR:*(int,int):/(int,int):org.apache.commons.lang3.math.Fraction@toProperString():940:34284:-1 * denominator |==> -1 / denominator
+874:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():940:34271:numerator == -1 * denominator |==> numerator <= -1 * denominator
+875:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():940:34271:numerator == -1 * denominator |==> numerator >= -1 * denominator
+876:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@toProperString():940:34281:numerator == -1 * denominator |==> false
+877:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@toProperString():941:34320:toProperString = "-1"; |==> <NO-OP>
+878:LVR:0:POS:org.apache.commons.lang3.math.Fraction@toProperString():942:34377:0 |==> 1
+879:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@toProperString():942:34377:0 |==> -1
+880:ROR:>(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():942:34367:numerator > 0 |==> numerator != 0
+881:ROR:>(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():942:34367:numerator > 0 |==> numerator >= 0
+882:ROR:>(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@toProperString():942:34376:numerator > 0 |==> false
+883:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@toProperString():942:34379:-numerator |==> +numerator
+884:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@toProperString():942:34379:-numerator |==> ~numerator
+885:ORU:-(int):+(int):org.apache.commons.lang3.math.Fraction@toProperString():942:34403:-denominator |==> +denominator
+886:ORU:-(int):~(int):org.apache.commons.lang3.math.Fraction@toProperString():942:34403:-denominator |==> ~denominator
+887:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():942:34366:(numerator > 0 ? -numerator : numerator) < -denominator |==> (numerator > 0 ? -numerator : numerator) != -denominator
+888:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():942:34366:(numerator > 0 ? -numerator : numerator) < -denominator |==> (numerator > 0 ? -numerator : numerator) <= -denominator
+889:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@toProperString():942:34401:(numerator > 0 ? -numerator : numerator) < -denominator |==> false
+890:LVR:0:POS:org.apache.commons.lang3.math.Fraction@toProperString():948:34792:0 |==> 1
+891:LVR:0:NEG:org.apache.commons.lang3.math.Fraction@toProperString():948:34792:0 |==> -1
+892:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():948:34773:properNumerator == 0 |==> properNumerator <= 0
+893:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.math.Fraction@toProperString():948:34773:properNumerator == 0 |==> properNumerator >= 0
+894:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.math.Fraction@toProperString():948:34789:properNumerator == 0 |==> false
+895:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@toProperString():949:34817:toProperString = Integer.toString(getProperWhole()); |==> <NO-OP>
+896:LVR:POS:0:org.apache.commons.lang3.math.Fraction@toProperString():951:34950:32 |==> 0
+897:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@toProperString():951:34950:32 |==> -32
+898:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@toProperString():951:34915:toProperString = new StringBuilder(32).append(getProperWhole()).append(' ').append(properNumerator).append('/').append(getDenominator()).toString(); |==> <NO-OP>
+899:LVR:POS:0:org.apache.commons.lang3.math.Fraction@toProperString():957:35229:32 |==> 0
+900:LVR:POS:NEG:org.apache.commons.lang3.math.Fraction@toProperString():957:35229:32 |==> -32
+901:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.math.Fraction@toProperString():957:35194:toProperString = new StringBuilder(32).append(getNumerator()).append('/').append(getDenominator()).toString(); |==> <NO-OP>

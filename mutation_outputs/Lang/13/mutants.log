@@ -1,0 +1,30 @@
+1:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils@clone(T):79:2889:object == null |==> false
+2:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@clone(T):88:3180:in = new ClassLoaderAwareObjectInputStream(bais, object.getClass().getClassLoader()); |==> <NO-OP>
+3:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils@clone(T):104:3977:in != null |==> true
+4:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@clone(T):105:4008:in.close(); |==> <NO-OP>
+5:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable,java.io.OutputStream):131:5147:outputStream == null |==> false
+6:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable,java.io.OutputStream):137:5362:out = new ObjectOutputStream(outputStream); |==> <NO-OP>
+7:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable,java.io.OutputStream):138:5418:out.writeObject(obj); |==> <NO-OP>
+8:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable,java.io.OutputStream):144:5588:out != null |==> true
+9:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable,java.io.OutputStream):145:5619:out.close(); |==> <NO-OP>
+10:LVR:POS:0:org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable):162:6188:512 |==> 0
+11:LVR:POS:NEG:org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable):162:6188:512 |==> -512
+12:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@serialize(java.io.Serializable):163:6202:serialize(obj, baos); |==> <NO-OP>
+13:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils@deserialize(java.io.InputStream):185:7166:inputStream == null |==> false
+14:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@deserialize(java.io.InputStream):191:7378:in = new ObjectInputStream(inputStream); |==> <NO-OP>
+15:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils@deserialize(java.io.InputStream):200:7698:in != null |==> true
+16:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils@deserialize(java.io.InputStream):201:7729:in.close(); |==> <NO-OP>
+17:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils@deserialize(byte[]):218:8317:objectData == null |==> false
+18:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):252:9937:this.classLoader = classLoader; |==> <NO-OP>
+19:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):254:9982:primitiveTypes.put("byte", byte.class); |==> <NO-OP>
+20:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):255:10034:primitiveTypes.put("short", short.class); |==> <NO-OP>
+21:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):256:10088:primitiveTypes.put("int", int.class); |==> <NO-OP>
+22:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):257:10138:primitiveTypes.put("long", long.class); |==> <NO-OP>
+23:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):258:10190:primitiveTypes.put("float", float.class); |==> <NO-OP>
+24:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):259:10244:primitiveTypes.put("double", double.class); |==> <NO-OP>
+25:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):260:10300:primitiveTypes.put("boolean", boolean.class); |==> <NO-OP>
+26:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):261:10358:primitiveTypes.put("char", char.class); |==> <NO-OP>
+27:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@<init>(java.io.InputStream,java.lang.ClassLoader):262:10410:primitiveTypes.put("void", void.class); |==> <NO-OP>
+28:LVR:FALSE:TRUE:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@resolveClass(java.io.ObjectStreamClass):277:11219:false |==> true
+29:LVR:FALSE:TRUE:org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@resolveClass(java.io.ObjectStreamClass):280:11359:false |==> true
+30:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream@resolveClass(java.io.ObjectStreamClass):283:11560:cls != null |==> true

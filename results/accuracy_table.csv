@@ -1,0 +1,10 @@
+model,GroupKFold by class,Stratified 5-fold
+Baseline: Majority class,0.355 ± 0.036,0.355 ± 0.000
+Baseline: LOC-only tree,0.524 ± 0.046,0.558 ± 0.013
+Baseline: Operator-only tree,0.571 ± 0.032,0.632 ± 0.006
+Decision Tree,0.643 ± 0.058,0.808 ± 0.022
+KNN (k=15),0.720 ± 0.092,0.878 ± 0.012
+Naive Bayes,0.561 ± 0.038,0.559 ± 0.016
+Random Forest,0.751 ± 0.090,0.881 ± 0.009
+AdaBoost,0.588 ± 0.037,0.599 ± 0.011
+MLP,0.641 ± 0.054,0.789 ± 0.035

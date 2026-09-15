@@ -1,0 +1,13 @@
+model,train_on,test_on,accuracy,macro_f1
+Decision Tree,Lang,Math,0.432,0.44
+Decision Tree,Math,Lang,0.414,0.419
+KNN (k=15),Lang,Math,0.551,0.531
+KNN (k=15),Math,Lang,0.499,0.505
+Naive Bayes,Lang,Math,0.502,0.472
+Naive Bayes,Math,Lang,0.546,0.536
+Random Forest,Lang,Math,0.551,0.53
+Random Forest,Math,Lang,0.475,0.484
+AdaBoost,Lang,Math,0.523,0.508
+AdaBoost,Math,Lang,0.51,0.503
+MLP,Lang,Math,0.529,0.531
+MLP,Math,Lang,0.538,0.544

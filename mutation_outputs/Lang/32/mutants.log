@@ -1,0 +1,311 @@
+1:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@isRegistered(java.lang.Object):148:5016:registry != null |==> true
+2:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@isRegistered(java.lang.Object):148:5007:registry != null && registry.contains(new IDKey(value)) |==> registry != null == registry.contains(new IDKey(value))
+3:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@isRegistered(java.lang.Object):148:5024:registry != null && registry.contains(new IDKey(value)) |==> false
+4:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@isRegistered(java.lang.Object):148:5007:registry != null && registry.contains(new IDKey(value)) |==> registry != null
+5:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@isRegistered(java.lang.Object):148:5027:registry != null && registry.contains(new IDKey(value)) |==> registry.contains(new IDKey(value))
+6:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):169:5808:isRegistered(object) |==> false
+7:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):169:5808:isRegistered(object) |==> true
+8:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):173:5876:register(object); |==> <NO-OP>
+9:LVR:TRUE:FALSE:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):175:6001:true |==> false
+10:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):175:5962:AccessibleObject.setAccessible(fields, true); |==> <NO-OP>
+11:LVR:NEG:0:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):178:6178:-1 |==> 0
+12:LVR:NEG:POS:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):178:6178:-1 |==> 1
+13:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):178:6146:field.getName().indexOf('$') == -1 |==> field.getName().indexOf('$') >= -1
+14:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):178:6175:field.getName().indexOf('$') == -1 |==> false
+15:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):177:6069:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) |==> !ArrayUtils.contains(excludeFields, field.getName()) == (field.getName().indexOf('$') == -1)
+16:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):178:6142:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) |==> false
+17:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):177:6069:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) |==> !ArrayUtils.contains(excludeFields, field.getName())
+18:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):178:6145:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) |==> (field.getName().indexOf('$') == -1)
+19:COR:||(boolean,boolean):!=(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):179:6206:useTransients || !Modifier.isTransient(field.getModifiers()) |==> useTransients != !Modifier.isTransient(field.getModifiers())
+20:COR:||(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):179:6206:useTransients || !Modifier.isTransient(field.getModifiers()) |==> useTransients
+21:COR:||(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):179:6223:useTransients || !Modifier.isTransient(field.getModifiers()) |==> !Modifier.isTransient(field.getModifiers())
+22:COR:||(boolean,boolean):TRUE(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):179:6220:useTransients || !Modifier.isTransient(field.getModifiers()) |==> true
+23:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):177:6069:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) |==> (!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1)) == (useTransients || !Modifier.isTransient(field.getModifiers()))
+24:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):179:6202:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) |==> false
+25:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):177:6069:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) |==> !ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1)
+26:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):179:6205:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) |==> (useTransients || !Modifier.isTransient(field.getModifiers()))
+27:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):177:6069:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) && (!Modifier.isStatic(field.getModifiers())) |==> (!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers()))) == (!Modifier.isStatic(field.getModifiers()))
+28:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):180:6288:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) && (!Modifier.isStatic(field.getModifiers())) |==> false
+29:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):177:6069:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) && (!Modifier.isStatic(field.getModifiers())) |==> !ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers()))
+30:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):180:6291:!ArrayUtils.contains(excludeFields, field.getName()) && (field.getName().indexOf('$') == -1) && (useTransients || !Modifier.isTransient(field.getModifiers())) && (!Modifier.isStatic(field.getModifiers())) |==> (!Modifier.isStatic(field.getModifiers()))
+31:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):183:6450:builder.append(fieldValue); |==> <NO-OP>
+32:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionAppend(java.lang.Object,java.lang.Class<?>,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[]):192:6877:unregister(object); |==> <NO-OP>
+33:LVR:FALSE:TRUE:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,java.lang.Object):234:8591:false |==> true
+34:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):352:13807:object == null |==> false
+35:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):357:14092:reflectionAppend(object, clazz, builder, testTransients, excludeFields); |==> <NO-OP>
+36:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):358:14202:clazz.getSuperclass() != null |==> true
+37:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):358:14219:clazz != reflectUpToClass |==> true
+38:COR:&&(boolean,boolean):==(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):358:14180:clazz.getSuperclass() != null && clazz != reflectUpToClass |==> clazz.getSuperclass() != null == (clazz != reflectUpToClass)
+39:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):358:14210:clazz.getSuperclass() != null && clazz != reflectUpToClass |==> false
+40:COR:&&(boolean,boolean):LHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):358:14180:clazz.getSuperclass() != null && clazz != reflectUpToClass |==> clazz.getSuperclass() != null
+41:COR:&&(boolean,boolean):RHS(boolean,boolean):org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):358:14213:clazz.getSuperclass() != null && clazz != reflectUpToClass |==> clazz != reflectUpToClass
+42:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):359:14254:clazz = clazz.getSuperclass(); |==> <NO-OP>
+43:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(int,int,T,boolean,java.lang.Class<? super T>,java.lang.String[]):360:14297:reflectionAppend(object, clazz, builder, testTransients, excludeFields); |==> <NO-OP>
+44:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object):396:15566:17 |==> 0
+45:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object):396:15566:17 |==> -17
+46:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object):396:15570:37 |==> 0
+47:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object):396:15570:37 |==> -37
+48:LVR:FALSE:TRUE:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object):396:15582:false |==> true
+49:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,boolean):432:16942:17 |==> 0
+50:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,boolean):432:16942:17 |==> -17
+51:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,boolean):432:16946:37 |==> 0
+52:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,boolean):432:16946:37 |==> -37
+53:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,java.lang.String[]):506:19738:17 |==> 0
+54:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,java.lang.String[]):506:19738:17 |==> -17
+55:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,java.lang.String[]):506:19742:37 |==> 0
+56:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,java.lang.String[]):506:19742:37 |==> -37
+57:LVR:FALSE:TRUE:org.apache.commons.lang3.builder.HashCodeBuilder@reflectionHashCode(java.lang.Object,java.lang.String[]):506:19754:false |==> true
+58:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@register(java.lang.Object):519:20108:getRegistry() == null |==> false
+59:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@register(java.lang.Object):520:20135:REGISTRY.set(new HashSet<IDKey>()); |==> <NO-OP>
+60:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@register(java.lang.Object):523:20203:getRegistry().add(new IDKey(value)); |==> <NO-OP>
+61:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@unregister(java.lang.Object):540:20590:s != null |==> true
+62:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@unregister(java.lang.Object):541:20613:s.remove(new IDKey(value)); |==> <NO-OP>
+63:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.builder.HashCodeBuilder@unregister(java.lang.Object):543:20721:s.isEmpty() |==> false
+64:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.builder.HashCodeBuilder@unregister(java.lang.Object):543:20721:s.isEmpty() |==> true
+65:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@unregister(java.lang.Object):544:20747:REGISTRY.remove(); |==> <NO-OP>
+66:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder:558:20993:0 |==> 1
+67:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder:558:20993:0 |==> -1
+68:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@<init>():566:21181:37 |==> 0
+69:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@<init>():566:21181:37 |==> -37
+70:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@<init>():567:21202:17 |==> 0
+71:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@<init>():567:21202:17 |==> -17
+72:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@<init>():567:21193:iTotal = 17; |==> <NO-OP>
+73:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):588:21939:0 |==> 1
+74:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):588:21939:0 |==> -1
+75:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):588:21912:initialNonZeroOddNumber == 0 |==> initialNonZeroOddNumber <= 0
+76:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):588:21912:initialNonZeroOddNumber == 0 |==> initialNonZeroOddNumber >= 0
+77:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):588:21936:initialNonZeroOddNumber == 0 |==> false
+78:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22093:2 |==> 0
+79:AOR:%(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22067:initialNonZeroOddNumber % 2 |==> initialNonZeroOddNumber * 2
+80:AOR:%(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22067:initialNonZeroOddNumber % 2 |==> initialNonZeroOddNumber + 2
+81:AOR:%(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22067:initialNonZeroOddNumber % 2 |==> initialNonZeroOddNumber - 2
+82:AOR:%(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22067:initialNonZeroOddNumber % 2 |==> initialNonZeroOddNumber / 2
+83:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22098:0 |==> 1
+84:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22098:0 |==> -1
+85:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22067:initialNonZeroOddNumber % 2 == 0 |==> initialNonZeroOddNumber % 2 <= 0
+86:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22067:initialNonZeroOddNumber % 2 == 0 |==> initialNonZeroOddNumber % 2 >= 0
+87:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):591:22095:initialNonZeroOddNumber % 2 == 0 |==> false
+88:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):594:22252:0 |==> 1
+89:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):594:22252:0 |==> -1
+90:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):594:22222:multiplierNonZeroOddNumber == 0 |==> multiplierNonZeroOddNumber <= 0
+91:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):594:22222:multiplierNonZeroOddNumber == 0 |==> multiplierNonZeroOddNumber >= 0
+92:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):594:22249:multiplierNonZeroOddNumber == 0 |==> false
+93:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22406:2 |==> 0
+94:AOR:%(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22377:multiplierNonZeroOddNumber % 2 |==> multiplierNonZeroOddNumber * 2
+95:AOR:%(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22377:multiplierNonZeroOddNumber % 2 |==> multiplierNonZeroOddNumber + 2
+96:AOR:%(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22377:multiplierNonZeroOddNumber % 2 |==> multiplierNonZeroOddNumber - 2
+97:AOR:%(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22377:multiplierNonZeroOddNumber % 2 |==> multiplierNonZeroOddNumber / 2
+98:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22411:0 |==> 1
+99:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22411:0 |==> -1
+100:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22377:multiplierNonZeroOddNumber % 2 == 0 |==> multiplierNonZeroOddNumber % 2 <= 0
+101:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22377:multiplierNonZeroOddNumber % 2 == 0 |==> multiplierNonZeroOddNumber % 2 >= 0
+102:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):597:22408:multiplierNonZeroOddNumber % 2 == 0 |==> false
+103:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@<init>(int,int):601:22576:iTotal = initialNonZeroOddNumber; |==> <NO-OP>
+104:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant |==> iTotal % iConstant
+105:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant |==> iTotal + iConstant
+106:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant |==> iTotal - iConstant
+107:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant |==> iTotal / iConstant
+108:COR:<IDENTIFIER(boolean)>:FALSE:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23184:value |==> false
+109:COR:<IDENTIFIER(boolean)>:TRUE:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23184:value |==> true
+110:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23192:0 |==> 1
+111:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23192:0 |==> -1
+112:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23196:1 |==> 0
+113:LVR:POS:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23196:1 |==> -1
+114:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant + (value ? 0 : 1) |==> iTotal * iConstant % (value ? 0 : 1)
+115:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant + (value ? 0 : 1) |==> iTotal * iConstant * (value ? 0 : 1)
+116:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant + (value ? 0 : 1) |==> iTotal * iConstant - (value ? 0 : 1)
+117:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23162:iTotal * iConstant + (value ? 0 : 1) |==> iTotal * iConstant / (value ? 0 : 1)
+118:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean):619:23153:iTotal = iTotal * iConstant + (value ? 0 : 1); |==> <NO-OP>
+119:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):633:23522:array == null |==> false
+120:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):634:23554:iTotal * iConstant |==> iTotal % iConstant
+121:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):634:23554:iTotal * iConstant |==> iTotal + iConstant
+122:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):634:23554:iTotal * iConstant |==> iTotal - iConstant
+123:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):634:23554:iTotal * iConstant |==> iTotal / iConstant
+124:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):634:23545:iTotal = iTotal * iConstant; |==> <NO-OP>
+125:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):636:23616:0 |==> 1
+126:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):636:23616:0 |==> -1
+127:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):636:23619:i < array.length |==> i <= array.length
+128:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):636:23621:i < array.length |==> false
+129:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(boolean[]):637:23660:append(array[i]); |==> <NO-OP>
+130:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant |==> iTotal % iConstant
+131:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant |==> iTotal + iConstant
+132:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant |==> iTotal - iConstant
+133:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant |==> iTotal / iConstant
+134:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant + value |==> iTotal * iConstant % value
+135:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant + value |==> iTotal * iConstant * value
+136:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant + value |==> iTotal * iConstant - value
+137:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24090:iTotal * iConstant + value |==> iTotal * iConstant / value
+138:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(byte):655:24081:iTotal = iTotal * iConstant + value; |==> <NO-OP>
+139:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):671:24516:array == null |==> false
+140:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):672:24548:iTotal * iConstant |==> iTotal % iConstant
+141:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):672:24548:iTotal * iConstant |==> iTotal + iConstant
+142:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):672:24548:iTotal * iConstant |==> iTotal - iConstant
+143:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):672:24548:iTotal * iConstant |==> iTotal / iConstant
+144:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):672:24539:iTotal = iTotal * iConstant; |==> <NO-OP>
+145:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):674:24610:0 |==> 1
+146:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):674:24610:0 |==> -1
+147:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):674:24613:i < array.length |==> i <= array.length
+148:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):674:24615:i < array.length |==> false
+149:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(byte[]):675:24654:append(array[i]); |==> <NO-OP>
+150:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant |==> iTotal % iConstant
+151:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant |==> iTotal + iConstant
+152:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant |==> iTotal - iConstant
+153:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant |==> iTotal / iConstant
+154:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant + value |==> iTotal * iConstant % value
+155:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant + value |==> iTotal * iConstant * value
+156:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant + value |==> iTotal * iConstant - value
+157:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:25002:iTotal * iConstant + value |==> iTotal * iConstant / value
+158:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(char):691:24993:iTotal = iTotal * iConstant + value; |==> <NO-OP>
+159:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):705:25346:array == null |==> false
+160:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):706:25378:iTotal * iConstant |==> iTotal % iConstant
+161:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):706:25378:iTotal * iConstant |==> iTotal + iConstant
+162:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):706:25378:iTotal * iConstant |==> iTotal - iConstant
+163:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):706:25378:iTotal * iConstant |==> iTotal / iConstant
+164:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):706:25369:iTotal = iTotal * iConstant; |==> <NO-OP>
+165:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):708:25440:0 |==> 1
+166:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):708:25440:0 |==> -1
+167:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):708:25443:i < array.length |==> i <= array.length
+168:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):708:25445:i < array.length |==> false
+169:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(char[]):709:25484:append(array[i]); |==> <NO-OP>
+170:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):738:26175:array == null |==> false
+171:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):739:26207:iTotal * iConstant |==> iTotal % iConstant
+172:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):739:26207:iTotal * iConstant |==> iTotal + iConstant
+173:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):739:26207:iTotal * iConstant |==> iTotal - iConstant
+174:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):739:26207:iTotal * iConstant |==> iTotal / iConstant
+175:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):739:26198:iTotal = iTotal * iConstant; |==> <NO-OP>
+176:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):741:26269:0 |==> 1
+177:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):741:26269:0 |==> -1
+178:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):741:26272:i < array.length |==> i <= array.length
+179:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):741:26274:i < array.length |==> false
+180:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(double[]):742:26313:append(array[i]); |==> <NO-OP>
+181:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant |==> iTotal % iConstant
+182:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant |==> iTotal + iConstant
+183:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant |==> iTotal - iConstant
+184:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant |==> iTotal / iConstant
+185:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant + Float.floatToIntBits(value) |==> iTotal * iConstant % Float.floatToIntBits(value)
+186:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant + Float.floatToIntBits(value) |==> iTotal * iConstant * Float.floatToIntBits(value)
+187:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant + Float.floatToIntBits(value) |==> iTotal * iConstant - Float.floatToIntBits(value)
+188:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26664:iTotal * iConstant + Float.floatToIntBits(value) |==> iTotal * iConstant / Float.floatToIntBits(value)
+189:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(float):758:26655:iTotal = iTotal * iConstant + Float.floatToIntBits(value); |==> <NO-OP>
+190:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):772:27032:array == null |==> false
+191:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):773:27064:iTotal * iConstant |==> iTotal % iConstant
+192:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):773:27064:iTotal * iConstant |==> iTotal + iConstant
+193:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):773:27064:iTotal * iConstant |==> iTotal - iConstant
+194:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):773:27064:iTotal * iConstant |==> iTotal / iConstant
+195:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):773:27055:iTotal = iTotal * iConstant; |==> <NO-OP>
+196:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):775:27126:0 |==> 1
+197:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):775:27126:0 |==> -1
+198:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):775:27129:i < array.length |==> i <= array.length
+199:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):775:27131:i < array.length |==> false
+200:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(float[]):776:27170:append(array[i]); |==> <NO-OP>
+201:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant |==> iTotal % iConstant
+202:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant |==> iTotal + iConstant
+203:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant |==> iTotal - iConstant
+204:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant |==> iTotal / iConstant
+205:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant + value |==> iTotal * iConstant % value
+206:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant + value |==> iTotal * iConstant * value
+207:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant + value |==> iTotal * iConstant - value
+208:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27516:iTotal * iConstant + value |==> iTotal * iConstant / value
+209:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(int):792:27507:iTotal = iTotal * iConstant + value; |==> <NO-OP>
+210:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):806:27859:array == null |==> false
+211:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):807:27891:iTotal * iConstant |==> iTotal % iConstant
+212:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):807:27891:iTotal * iConstant |==> iTotal + iConstant
+213:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):807:27891:iTotal * iConstant |==> iTotal - iConstant
+214:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):807:27891:iTotal * iConstant |==> iTotal / iConstant
+215:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):807:27882:iTotal = iTotal * iConstant; |==> <NO-OP>
+216:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):809:27953:0 |==> 1
+217:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):809:27953:0 |==> -1
+218:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):809:27956:i < array.length |==> i <= array.length
+219:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):809:27958:i < array.length |==> false
+220:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(int[]):810:27997:append(array[i]); |==> <NO-OP>
+221:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant |==> iTotal % iConstant
+222:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant |==> iTotal + iConstant
+223:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant |==> iTotal - iConstant
+224:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant |==> iTotal / iConstant
+225:LVR:POS:0:org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28660:32 |==> 0
+226:SOR:>>(long,int):<<(long,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28651:value >> 32 |==> value << 32
+227:SOR:>>(long,int):>>>(long,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28651:value >> 32 |==> value >>> 32
+228:LOR:^(long,long):&(long,long):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28642:value ^ (value >> 32) |==> value & (value >> 32)
+229:LOR:^(long,long):|(long,long):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28642:value ^ (value >> 32) |==> value | (value >> 32)
+230:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant + ((int)(value ^ (value >> 32))) |==> iTotal * iConstant % ((int)(value ^ (value >> 32)))
+231:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant + ((int)(value ^ (value >> 32))) |==> iTotal * iConstant * ((int)(value ^ (value >> 32)))
+232:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant + ((int)(value ^ (value >> 32))) |==> iTotal * iConstant - ((int)(value ^ (value >> 32)))
+233:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28613:iTotal * iConstant + ((int)(value ^ (value >> 32))) |==> iTotal * iConstant / ((int)(value ^ (value >> 32)))
+234:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(long):830:28604:iTotal = iTotal * iConstant + ((int)(value ^ (value >> 32))); |==> <NO-OP>
+235:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):844:28983:array == null |==> false
+236:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):845:29015:iTotal * iConstant |==> iTotal % iConstant
+237:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):845:29015:iTotal * iConstant |==> iTotal + iConstant
+238:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):845:29015:iTotal * iConstant |==> iTotal - iConstant
+239:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):845:29015:iTotal * iConstant |==> iTotal / iConstant
+240:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):845:29006:iTotal = iTotal * iConstant; |==> <NO-OP>
+241:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):847:29077:0 |==> 1
+242:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):847:29077:0 |==> -1
+243:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):847:29080:i < array.length |==> i <= array.length
+244:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):847:29082:i < array.length |==> false
+245:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(long[]):848:29121:append(array[i]); |==> <NO-OP>
+246:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):864:29480:object == null |==> false
+247:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):865:29512:iTotal * iConstant |==> iTotal % iConstant
+248:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):865:29512:iTotal * iConstant |==> iTotal + iConstant
+249:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):865:29512:iTotal * iConstant |==> iTotal - iConstant
+250:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):865:29512:iTotal * iConstant |==> iTotal / iConstant
+251:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):865:29503:iTotal = iTotal * iConstant; |==> <NO-OP>
+252:COR:<METHOD_INVOCATION(boolean)>:FALSE:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):868:29590:object.getClass().isArray() |==> false
+253:COR:<METHOD_INVOCATION(boolean)>:TRUE:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):868:29590:object.getClass().isArray() |==> true
+254:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):872:29802:append((long[])object); |==> <NO-OP>
+255:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):874:29901:append((int[])object); |==> <NO-OP>
+256:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):876:30001:append((short[])object); |==> <NO-OP>
+257:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):878:30102:append((char[])object); |==> <NO-OP>
+258:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):880:30202:append((byte[])object); |==> <NO-OP>
+259:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):882:30304:append((double[])object); |==> <NO-OP>
+260:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):884:30407:append((float[])object); |==> <NO-OP>
+261:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):886:30511:append((boolean[])object); |==> <NO-OP>
+262:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):889:30634:append((Object[])object); |==> <NO-OP>
+263:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant |==> iTotal % iConstant
+264:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant |==> iTotal + iConstant
+265:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant |==> iTotal - iConstant
+266:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant |==> iTotal / iConstant
+267:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant + object.hashCode() |==> iTotal * iConstant % object.hashCode()
+268:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant + object.hashCode() |==> iTotal * iConstant * object.hashCode()
+269:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant + object.hashCode() |==> iTotal * iConstant - object.hashCode()
+270:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30725:iTotal * iConstant + object.hashCode() |==> iTotal * iConstant / object.hashCode()
+271:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object):892:30716:iTotal = iTotal * iConstant + object.hashCode(); |==> <NO-OP>
+272:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):908:31110:array == null |==> false
+273:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):909:31142:iTotal * iConstant |==> iTotal % iConstant
+274:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):909:31142:iTotal * iConstant |==> iTotal + iConstant
+275:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):909:31142:iTotal * iConstant |==> iTotal - iConstant
+276:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):909:31142:iTotal * iConstant |==> iTotal / iConstant
+277:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):909:31133:iTotal = iTotal * iConstant; |==> <NO-OP>
+278:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):911:31204:0 |==> 1
+279:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):911:31204:0 |==> -1
+280:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):911:31207:i < array.length |==> i <= array.length
+281:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):911:31209:i < array.length |==> false
+282:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(java.lang.Object[]):912:31248:append(array[i]); |==> <NO-OP>
+283:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant |==> iTotal % iConstant
+284:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant |==> iTotal + iConstant
+285:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant |==> iTotal - iConstant
+286:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant |==> iTotal / iConstant
+287:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant + value |==> iTotal * iConstant % value
+288:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant + value |==> iTotal * iConstant * value
+289:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant + value |==> iTotal * iConstant - value
+290:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31599:iTotal * iConstant + value |==> iTotal * iConstant / value
+291:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(short):928:31590:iTotal = iTotal * iConstant + value; |==> <NO-OP>
+292:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):942:31945:array == null |==> false
+293:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):943:31977:iTotal * iConstant |==> iTotal % iConstant
+294:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):943:31977:iTotal * iConstant |==> iTotal + iConstant
+295:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):943:31977:iTotal * iConstant |==> iTotal - iConstant
+296:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):943:31977:iTotal * iConstant |==> iTotal / iConstant
+297:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):943:31968:iTotal = iTotal * iConstant; |==> <NO-OP>
+298:LVR:0:POS:org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):945:32039:0 |==> 1
+299:LVR:0:NEG:org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):945:32039:0 |==> -1
+300:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):945:32042:i < array.length |==> i <= array.length
+301:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):945:32044:i < array.length |==> false
+302:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@append(short[]):946:32083:append(array[i]); |==> <NO-OP>
+303:AOR:*(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant |==> iTotal % iConstant
+304:AOR:*(int,int):+(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant |==> iTotal + iConstant
+305:AOR:*(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant |==> iTotal - iConstant
+306:AOR:*(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant |==> iTotal / iConstant
+307:AOR:+(int,int):%(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant + superHashCode |==> iTotal * iConstant % superHashCode
+308:AOR:+(int,int):*(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant + superHashCode |==> iTotal * iConstant * superHashCode
+309:AOR:+(int,int):-(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant + superHashCode |==> iTotal * iConstant - superHashCode
+310:AOR:+(int,int):/(int,int):org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32511:iTotal * iConstant + superHashCode |==> iTotal * iConstant / superHashCode
+311:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.builder.HashCodeBuilder@appendSuper(int):963:32502:iTotal = iTotal * iConstant + superHashCode; |==> <NO-OP>

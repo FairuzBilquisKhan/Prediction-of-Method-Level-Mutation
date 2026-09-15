@@ -1,0 +1,57 @@
+{
+  "n_rows": 3872,
+  "n_features": 32,
+  "feature_names": [
+    "loc",
+    "num_params",
+    "num_local_vars",
+    "num_method_calls",
+    "num_arith_ops",
+    "num_rel_ops",
+    "num_logical_ops",
+    "num_literals",
+    "num_nodes",
+    "num_edges",
+    "cyclomatic_complexity",
+    "num_conditions",
+    "num_branches",
+    "num_joins",
+    "num_loops",
+    "num_returns",
+    "max_nesting_depth",
+    "branch_ratio",
+    "has_loop",
+    "has_branching",
+    "num_unique_lines",
+    "num_total_mutants",
+    "frac_ROR",
+    "frac_AOR",
+    "frac_LOR",
+    "frac_COR",
+    "frac_SOR",
+    "frac_ORU",
+    "frac_LVR",
+    "frac_STD",
+    "project_Lang",
+    "project_Math"
+  ],
+  "class_to_int": {
+    "low": 0,
+    "medium": 1,
+    "high": 2
+  },
+  "class_counts": {
+    "medium": 1374,
+    "low": 1250,
+    "high": 1248
+  },
+  "project_counts": {
+    "Lang": 2234,
+    "Math": 1638
+  },
+  "removed_low_variance": [],
+  "outlier_capping": {
+    "factor": 1.5,
+    "method": "IQR"
+  }
+}

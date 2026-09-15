@@ -1,0 +1,6 @@
+,K-Means (k=3),Hierarchical (k=3)
+Homogeneity,0.1234,0.0997
+Completeness,0.1397,0.1282
+V-measure,0.1311,0.1121
+Adj. Rand Idx,0.0667,0.0507
+Silhouette,0.2069,0.1928

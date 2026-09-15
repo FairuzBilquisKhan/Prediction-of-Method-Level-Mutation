@@ -1,0 +1,42 @@
+1:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):54:2233:input == null |==> false
+2:LVR:POS:0:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):58:2361:2 |==> 0
+3:LVR:POS:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):58:2361:2 |==> -2
+4:AOR:*(int,int):%(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):58:2344:input.length() * 2 |==> input.length() % 2
+5:AOR:*(int,int):+(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):58:2344:input.length() * 2 |==> input.length() + 2
+6:AOR:*(int,int):-(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):58:2344:input.length() * 2 |==> input.length() - 2
+7:AOR:*(int,int):/(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):58:2344:input.length() * 2 |==> input.length() / 2
+8:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence):59:2377:translate(input, writer); |==> <NO-OP>
+9:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):76:3079:out == null |==> false
+10:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):79:3197:input == null |==> false
+11:LVR:0:POS:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):82:3256:0 |==> 1
+12:LVR:0:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):82:3256:0 |==> -1
+13:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):84:3308:pos < len |==> pos != len
+14:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):84:3308:pos < len |==> pos <= len
+15:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):84:3312:pos < len |==> false
+16:LVR:0:POS:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):86:3404:0 |==> 1
+17:LVR:0:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):86:3404:0 |==> -1
+18:ROR:==(int,int):<=(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):86:3392:consumed == 0 |==> consumed <= 0
+19:ROR:==(int,int):>=(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):86:3392:consumed == 0 |==> consumed >= 0
+20:ROR:==(int,int):FALSE(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):86:3401:consumed == 0 |==> false
+21:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):88:3506:out.write(c); |==> <NO-OP>
+22:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):89:3536:pos += c.length; |==> <NO-OP>
+23:LVR:0:POS:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):94:3762:0 |==> 1
+24:LVR:0:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):94:3762:0 |==> -1
+25:ROR:<(int,int):!=(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):94:3765:pt < consumed |==> pt != consumed
+26:ROR:<(int,int):<=(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):94:3765:pt < consumed |==> pt <= consumed
+27:ROR:<(int,int):FALSE(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):94:3768:pt < consumed |==> false
+28:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.text.translate.CharSequenceTranslator@translate(java.lang.CharSequence,java.io.Writer):95:3804:pos += Character.charCount(Character.codePointAt(input, pt)); |==> <NO-OP>
+29:LVR:POS:0:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):108:4419:1 |==> 0
+30:LVR:POS:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):108:4419:1 |==> -1
+31:AOR:+(int,int):%(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):108:4398:translators.length + 1 |==> translators.length % 1
+32:AOR:+(int,int):*(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):108:4398:translators.length + 1 |==> translators.length * 1
+33:AOR:+(int,int):-(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):108:4398:translators.length + 1 |==> translators.length - 1
+34:AOR:+(int,int):/(int,int):org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):108:4398:translators.length + 1 |==> translators.length / 1
+35:LVR:0:POS:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):109:4440:0 |==> 1
+36:LVR:0:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):109:4440:0 |==> -1
+37:STD:<ASSIGN>:<NO-OP>:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):109:4431:newArray[0] = this; |==> <NO-OP>
+38:LVR:0:POS:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):110:4489:0 |==> 1
+39:LVR:0:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):110:4489:0 |==> -1
+40:LVR:POS:0:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):110:4502:1 |==> 0
+41:LVR:POS:NEG:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):110:4502:1 |==> -1
+42:STD:<CALL>:<NO-OP>:org.apache.commons.lang3.text.translate.CharSequenceTranslator@with(org.apache.commons.lang3.text.translate.CharSequenceTranslator[]):110:4459:System.arraycopy(translators, 0, newArray, 1, translators.length); |==> <NO-OP>
